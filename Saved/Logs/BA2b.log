@@ -1,4 +1,4 @@
-﻿Log file open, 03/06/19 18:07:23
+﻿Log file open, 03/06/19 18:15:01
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: BA2b
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-1075863946) SRandInit(-1075863946).
+LogInit: Display: RandInit(486133082) SRandInit(486133082).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.411388
+LogStats: Stats thread started at 0.406038
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  1.588s to configure plugins.
+LogStreaming: Display: Took  1.618s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -222,427 +222,196 @@ LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.000s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2019.03.06-18.07.25:507][  0]LogInit: Selected Device Profile: [Windows]
-[2019.03.06-18.07.25:507][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.03.06-18.07.25:528][  0]LogInit: Computer: C-02444
-[2019.03.06-18.07.25:528][  0]LogInit: User: 1600738
-[2019.03.06-18.07.25:528][  0]LogInit: CPU Page size=4096, Cores=6
-[2019.03.06-18.07.25:528][  0]LogInit: High frequency timer resolution =3.410069 MHz
-[2019.03.06-18.07.25:528][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
-[2019.03.06-18.07.25:528][  0]LogMemory: Platform Memory Stats for Windows
-[2019.03.06-18.07.25:528][  0]LogMemory: Process Physical Memory: 277.95 MB used, 277.95 MB peak
-[2019.03.06-18.07.25:528][  0]LogMemory: Process Virtual Memory: 274.18 MB used, 274.18 MB peak
-[2019.03.06-18.07.25:528][  0]LogMemory: Physical Memory: 8191.04 MB used,  24499.06 MB free, 32690.10 MB total
-[2019.03.06-18.07.25:528][  0]LogMemory: Virtual Memory: 704.27 MB used,  24499.06 MB free, 134217728.00 MB total
-[2019.03.06-18.07.25:582][  0]LogInit: Using OS detected language (en-GB).
-[2019.03.06-18.07.25:582][  0]LogInit: Using OS detected locale (en-GB).
-[2019.03.06-18.07.25:589][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
-[2019.03.06-18.07.26:007][  0]LogStreaming: Display: Took  0.425s to EndInitTextLocalization.
-[2019.03.06-18.07.26:007][  0]LogInit: Setting process to per monitor DPI aware
-[2019.03.06-18.07.26:033][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.03.06-18.07.26:033][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.03.06-18.07.26:451][  0]LogD3D11RHI: D3D11 adapters:
-[2019.03.06-18.07.26:526][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
-[2019.03.06-18.07.26:526][  0]LogD3D11RHI:       8079/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2019.03.06-18.07.26:528][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.03.06-18.07.26:528][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.03.06-18.07.26:528][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.03.06-18.07.26:537][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.03.06-18.07.26:537][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
-[2019.03.06-18.07.26:537][  0]LogWindows: EnumDisplayDevices:
-[2019.03.06-18.07.26:537][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
-[2019.03.06-18.07.26:537][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2019.03.06-18.07.26:538][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2019.03.06-18.07.26:538][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2019.03.06-18.07.26:538][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2019.03.06-18.07.26:538][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
-[2019.03.06-18.07.26:538][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2019.03.06-18.07.26:538][  0]LogD3D11RHI:      Driver Date: Unknown
-[2019.03.06-18.07.26:538][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
-[2019.03.06-18.07.26:588][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2019.03.06-18.07.26:588][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2019.03.06-18.07.26:588][  0]LogD3D11RHI: Async texture creation enabled
-[2019.03.06-18.07.26:619][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2019.03.06-18.07.26:661][  0]LogShaderCompilers: Guid format shader working directory is 29 characters bigger than the processId version (D:/Milosz/BA2bUnit/Intermediate/Shaders/WorkingDirectory/12152/).
-[2019.03.06-18.07.26:662][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1600738/AppData/Local/Temp/UnrealShaderWorkingDir/CB16CD1C4882AF398D1B91BC19E89255/'.
-[2019.03.06-18.07.26:930][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2019.03.06-18.07.26:944][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2019.03.06-18.07.26:959][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2019.03.06-18.07.26:973][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2019.03.06-18.07.26:988][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2019.03.06-18.07.27:002][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2019.03.06-18.07.27:017][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2019.03.06-18.07.27:031][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2019.03.06-18.07.27:038][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2019.03.06-18.07.27:050][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2019.03.06-18.07.27:069][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2019.03.06-18.07.27:082][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2019.03.06-18.07.27:096][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2019.03.06-18.07.27:110][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2019.03.06-18.07.27:123][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2019.03.06-18.07.27:148][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2019.03.06-18.07.27:149][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2019.03.06-18.07.27:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.03.06-18.07.27:164][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2019.03.06-18.07.27:203][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2019.03.06-18.07.27:216][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2019.03.06-18.07.27:234][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2019.03.06-18.07.27:252][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2019.03.06-18.07.27:266][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2019.03.06-18.07.27:285][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2019.03.06-18.07.27:285][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.03.06-18.07.27:459][  0]LogXGEController: Cleaning working directory: C:/Users/1600738/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2019.03.06-18.07.27:459][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.03.06-18.07.27:459][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.03.06-18.07.27:459][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.03.06-18.07.28:385][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.03.06-18.07.28:469][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/1600738/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2019.03.06-18.07.28:469][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1600738/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2019.03.06-18.07.28:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Milosz/BA2bUnit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.03.06-18.07.28:469][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.03.06-18.07.28:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Milosz/BA2bUnit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.03.06-18.07.28:469][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.03.06-18.07.28:484][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.03.06-18.07.28:498][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1600738/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.03.06-18.07.28:498][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.03.06-18.07.28:498][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.03.06-18.07.28:508][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.03.06-18.07.28:509][  0]LogSlate: Using Freetype 2.6.0
-[2019.03.06-18.07.28:510][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.03.06-18.07.28:510][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.03.06-18.07.28:741][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
-[2019.03.06-18.07.29:052][  0]LogInit: Selected Device Profile: [Windows]
-[2019.03.06-18.07.29:222][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2019.03.06-18.07.29:225][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2019.03.06-18.07.29:225][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.03.06-18.07.29:225][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2019.03.06-18.07.29:225][  0]LogMeshReduction: No automatic mesh merging module available
-[2019.03.06-18.07.29:225][  0]LogMeshMerging: No automatic mesh merging module available
-[2019.03.06-18.07.29:288][  0]LogNetVersion: BA2b , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2146082067)
-[2019.03.06-18.07.29:863][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.071329 seconds
-[2019.03.06-18.07.29:867][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2019.03.06-18.07.29:867][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
-[2019.03.06-18.07.29:867][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.03.06-18.07.32:343][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.03.06-18.07.32:389][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.03.06-18.07.32:989][  0]SourceControl: Source control is disabled
-[2019.03.06-18.07.34:547][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.03.06-18.07.34:864][  0]LogOcInput: OculusInput pre-init called
-[2019.03.06-18.07.35:045][  0]LogEngine: Initializing Engine...
-[2019.03.06-18.07.35:047][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.03.06-18.07.35:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.03.06-18.07.35:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.03.06-18.07.35:339][  0]LogAIModule: Creating AISystem for world Untitled
-[2019.03.06-18.07.35:392][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.03.06-18.07.35:600][  0]LogInit: FAudioDevice initialized.
-[2019.03.06-18.07.35:705][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/1600738/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2019.03.06-18.07.35:725][  0]LogInit: Texture streaming: Enabled
-[2019.03.06-18.07.35:745][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2019.03.06-18.07.35:766][  0]LogInit: Transaction tracking system initialized
-[2019.03.06-18.07.35:796][  0]BlueprintLog: New page: Editor Load
-[2019.03.06-18.07.35:872][  0]LocalizationService: Localization service is disabled
-[2019.03.06-18.07.36:013][  0]LogConsoleResponse: Display: 
-[2019.03.06-18.07.36:203][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2019.03.06-18.07.36:203][  0]LogCook: Display: Mobile HDR setting 1
-[2019.03.06-18.07.36:203][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2019.03.06-18.07.36:203][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.03.06-18.07.36:203][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.03.06-18.07.36:868][  0]LogFileCache: Scanning file cache for directory 'D:/Milosz/BA2bUnit/Content/' took 0.02s
-[2019.03.06-18.07.36:876][  0]Cmd: MAP LOAD FILE="D:/Milosz/BA2bUnit/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2019.03.06-18.07.36:877][  0]LightingResults: New page: Lighting Build
-[2019.03.06-18.07.36:880][  0]MapCheck: New page: Map Check
-[2019.03.06-18.07.36:880][  0]LightingResults: New page: Lighting Build
-[2019.03.06-18.07.36:936][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3a3a8e500, Size=96, Default__DodgeAnim_C Function /Game/TopDownBP/Character/DodgeAnim.DodgeAnim_C:ExecuteUbergraph_DodgeAnim
-[2019.03.06-18.07.36:939][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3a398b700, Size=256, Default__TopDownCharacter_C Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
-[2019.03.06-18.07.36:995][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3a3a8e500, Size=96
-[2019.03.06-18.07.36:995][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3908e3880, Size=96, Default__DodgeAnim_C Function /Engine/Transient.REINST_DodgeAnim_C_0:ExecuteUbergraph_DodgeAnim
-[2019.03.06-18.07.36:995][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3a398b700, Size=256
-[2019.03.06-18.07.36:995][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a38af45300, Size=256, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_4:ExecuteUbergraph_TopDownCharacter
-[2019.03.06-18.07.37:018][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a387516800, Size=96, Default__DodgeAnim_C Function /Game/TopDownBP/Character/DodgeAnim.DodgeAnim_C:ExecuteUbergraph_DodgeAnim
-[2019.03.06-18.07.37:021][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a3874dce00, Size=256, Default__TopDownCharacter_C Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
-[2019.03.06-18.07.37:110][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a388082740, Size=176, Default__TopDownController_C Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
-[2019.03.06-18.07.37:114][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a388082740, Size=176
-[2019.03.06-18.07.37:114][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a388082740, Size=176, Default__TopDownController_C Function /Engine/Transient.REINST_TopDownController_C_10:ExecuteUbergraph_TopDownController
-[2019.03.06-18.07.37:120][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a387fef880, Size=176, Default__TopDownController_C Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
-[2019.03.06-18.07.37:381][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.184059ms] /Game/TopDownBP/Character/Idle__1_.Idle__1_
-[2019.03.06-18.07.37:471][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
-[2019.03.06-18.07.37:493][  0]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.37:493][  0]LogScript: Warning: Accessed None trying to read property TopDownCharacterReferrence
+[2019.03.06-18.15.03:523][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.06-18.15.03:523][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.06-18.15.03:543][  0]LogInit: Computer: C-02444
+[2019.03.06-18.15.03:543][  0]LogInit: User: 1600738
+[2019.03.06-18.15.03:543][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.06-18.15.03:543][  0]LogInit: High frequency timer resolution =3.410069 MHz
+[2019.03.06-18.15.03:543][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.03.06-18.15.03:543][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.06-18.15.03:543][  0]LogMemory: Process Physical Memory: 277.82 MB used, 277.82 MB peak
+[2019.03.06-18.15.03:543][  0]LogMemory: Process Virtual Memory: 274.20 MB used, 274.20 MB peak
+[2019.03.06-18.15.03:543][  0]LogMemory: Physical Memory: 7981.41 MB used,  24708.69 MB free, 32690.10 MB total
+[2019.03.06-18.15.03:543][  0]LogMemory: Virtual Memory: 704.27 MB used,  24708.69 MB free, 134217728.00 MB total
+[2019.03.06-18.15.03:570][  0]LogInit: Using OS detected language (en-GB).
+[2019.03.06-18.15.03:570][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.06-18.15.03:577][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.03.06-18.15.03:980][  0]LogStreaming: Display: Took  0.410s to EndInitTextLocalization.
+[2019.03.06-18.15.03:980][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.06-18.15.04:021][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.06-18.15.04:021][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.06-18.15.04:457][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.06-18.15.04:542][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.03.06-18.15.04:542][  0]LogD3D11RHI:       8079/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.06-18.15.04:545][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.06-18.15.04:545][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.06-18.15.04:545][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.06-18.15.04:553][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.06-18.15.04:553][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.06-18.15.04:553][  0]LogWindows: EnumDisplayDevices:
+[2019.03.06-18.15.04:553][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.03.06-18.15.04:553][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.06-18.15.04:554][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.06-18.15.04:554][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.06-18.15.04:554][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.06-18.15.04:554][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.03.06-18.15.04:554][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.06-18.15.04:554][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.06-18.15.04:554][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.03.06-18.15.04:605][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.03.06-18.15.04:605][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.03.06-18.15.04:605][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.06-18.15.04:626][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.06-18.15.04:668][  0]LogShaderCompilers: Guid format shader working directory is 29 characters bigger than the processId version (D:/Milosz/BA2bUnit/Intermediate/Shaders/WorkingDirectory/12816/).
+[2019.03.06-18.15.04:668][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1600738/AppData/Local/Temp/UnrealShaderWorkingDir/6D262D8340EC3530CF52B38F1EE173B1/'.
+[2019.03.06-18.15.04:961][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.06-18.15.04:974][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.06-18.15.04:988][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.06-18.15.05:002][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.06-18.15.05:016][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.06-18.15.05:030][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.06-18.15.05:045][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.06-18.15.05:059][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.06-18.15.05:066][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.06-18.15.05:080][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.03.06-18.15.05:098][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.03.06-18.15.05:111][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.03.06-18.15.05:124][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.03.06-18.15.05:137][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.03.06-18.15.05:150][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.03.06-18.15.05:177][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.03.06-18.15.05:177][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.03.06-18.15.05:190][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-18.15.05:192][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.06-18.15.05:232][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.06-18.15.05:252][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.06-18.15.05:265][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.06-18.15.05:277][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.06-18.15.05:290][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.06-18.15.05:303][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.06-18.15.05:303][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.06-18.15.05:473][  0]LogXGEController: Cleaning working directory: C:/Users/1600738/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.06-18.15.05:474][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.06-18.15.05:474][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.06-18.15.05:474][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.06-18.15.06:467][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.06-18.15.06:560][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/1600738/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.06-18.15.06:560][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1600738/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.03.06-18.15.06:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Milosz/BA2bUnit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.06-18.15.06:560][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.06-18.15.06:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Milosz/BA2bUnit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.06-18.15.06:560][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.06-18.15.06:575][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.06-18.15.06:588][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1600738/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.06-18.15.06:588][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.06-18.15.06:588][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.06-18.15.06:599][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.06-18.15.06:599][  0]LogSlate: Using Freetype 2.6.0
+[2019.03.06-18.15.06:601][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.06-18.15.06:601][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.06-18.15.06:824][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2019.03.06-18.15.07:134][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.06-18.15.07:304][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.06-18.15.07:306][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.06-18.15.07:307][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.06-18.15.07:307][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.06-18.15.07:307][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.03.06-18.15.07:307][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.03.06-18.15.07:354][  0]LogNetVersion: BA2b , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2146082067)
+[2019.03.06-18.15.07:911][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.070034 seconds
+[2019.03.06-18.15.07:915][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.03.06-18.15.07:915][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.03.06-18.15.07:915][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.06-18.15.10:174][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.06-18.15.10:217][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.06-18.15.10:855][  0]SourceControl: Source control is disabled
+[2019.03.06-18.15.12:847][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.06-18.15.13:162][  0]LogOcInput: OculusInput pre-init called
+[2019.03.06-18.15.13:319][  0]LogEngine: Initializing Engine...
+[2019.03.06-18.15.13:321][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.06-18.15.13:323][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.06-18.15.13:323][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.06-18.15.13:571][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.06-18.15.13:619][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.06-18.15.13:839][  0]LogInit: FAudioDevice initialized.
+[2019.03.06-18.15.13:968][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/1600738/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.06-18.15.13:983][  0]LogInit: Texture streaming: Enabled
+[2019.03.06-18.15.14:004][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.06-18.15.14:026][  0]LogInit: Transaction tracking system initialized
+[2019.03.06-18.15.14:050][  0]BlueprintLog: New page: Editor Load
+[2019.03.06-18.15.14:145][  0]LocalizationService: Localization service is disabled
+[2019.03.06-18.15.14:282][  0]LogConsoleResponse: Display: 
+[2019.03.06-18.15.14:483][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.06-18.15.14:483][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.06-18.15.14:483][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.06-18.15.14:483][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.06-18.15.14:483][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.06-18.15.15:166][  0]LogFileCache: Scanning file cache for directory 'D:/Milosz/BA2bUnit/Content/' took 0.02s
+[2019.03.06-18.15.15:166][  0]Cmd: MAP LOAD FILE="D:/Milosz/BA2bUnit/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.06-18.15.15:167][  0]LightingResults: New page: Lighting Build
+[2019.03.06-18.15.15:170][  0]MapCheck: New page: Map Check
+[2019.03.06-18.15.15:170][  0]LightingResults: New page: Lighting Build
+[2019.03.06-18.15.15:295][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cc67a32500, Size=96, Default__DodgeAnim_C Function /Game/TopDownBP/Character/DodgeAnim.DodgeAnim_C:ExecuteUbergraph_DodgeAnim
+[2019.03.06-18.15.15:298][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cc68087700, Size=256, Default__TopDownCharacter_C Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2019.03.06-18.15.15:367][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cc67a32500, Size=96
+[2019.03.06-18.15.15:367][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cc4b6ab880, Size=96, Default__DodgeAnim_C Function /Engine/Transient.REINST_DodgeAnim_C_0:ExecuteUbergraph_DodgeAnim
+[2019.03.06-18.15.15:368][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cc68087700, Size=256
+[2019.03.06-18.15.15:368][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cc4b789300, Size=256, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_4:ExecuteUbergraph_TopDownCharacter
+[2019.03.06-18.15.15:386][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cc4ee4e800, Size=96, Default__DodgeAnim_C Function /Game/TopDownBP/Character/DodgeAnim.DodgeAnim_C:ExecuteUbergraph_DodgeAnim
+[2019.03.06-18.15.15:388][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cc4ee18e00, Size=256, Default__TopDownCharacter_C Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2019.03.06-18.15.15:483][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cc4f26a500, Size=176, Default__TopDownController_C Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
+[2019.03.06-18.15.15:487][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cc4f26a500, Size=176
+[2019.03.06-18.15.15:487][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cc4f26a500, Size=176, Default__TopDownController_C Function /Engine/Transient.REINST_TopDownController_C_10:ExecuteUbergraph_TopDownController
+[2019.03.06-18.15.15:493][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cc4f1d3640, Size=176, Default__TopDownController_C Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
+[2019.03.06-18.15.15:736][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.810106ms] /Game/TopDownBP/Character/Idle__1_.Idle__1_
+[2019.03.06-18.15.15:960][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.06-18.15.15:976][  0]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-18.15.15:976][  0]LogScript: Warning: Accessed None trying to read property TopDownCharacterReferrence
 	DodgeAnim_C /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter.CharacterMesh0.DodgeAnim_C_0
 	Function /Game/TopDownBP/Character/DodgeAnim.DodgeAnim_C:ExecuteUbergraph_DodgeAnim:03E1
-[2019.03.06-18.07.37:493][  0]LogScript: Warning: Accessed None trying to read property TopDownCharacterReferrence
+[2019.03.06-18.15.15:976][  0]LogScript: Warning: Accessed None trying to read property TopDownCharacterReferrence
 	DodgeAnim_C /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter.CharacterMesh0.DodgeAnim_C_0
 	Function /Game/TopDownBP/Character/DodgeAnim.DodgeAnim_C:ExecuteUbergraph_DodgeAnim:02F2
-[2019.03.06-18.07.37:498][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2019.03.06-18.07.37:509][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a3908e3880, Size=96
-[2019.03.06-18.07.37:509][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a38af45300, Size=256
-[2019.03.06-18.07.37:509][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a388082740, Size=176
-[2019.03.06-18.07.37:510][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.03.06-18.07.37:634][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123.824ms to complete.
-[2019.03.06-18.07.37:634][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.758
-[2019.03.06-18.07.37:779][  0]LogCollectionManager: Loaded 0 collections in 0.001506 seconds
-[2019.03.06-18.07.37:820][  0]LogFileCache: Scanning file cache for directory 'D:/Milosz/BA2bUnit/Saved/Collections/' took 0.01s
-[2019.03.06-18.07.37:820][  0]LogFileCache: Scanning file cache for directory 'D:/Milosz/BA2bUnit/Content/Developers/1600738/Collections/' took 0.01s
-[2019.03.06-18.07.37:820][  0]LogFileCache: Scanning file cache for directory 'D:/Milosz/BA2bUnit/Content/Collections/' took 0.01s
-[2019.03.06-18.07.37:820][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2019.03.06-18.07.37:829][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2452 classes and 558 folders.
-[2019.03.06-18.07.37:835][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2019.03.06-18.07.37:905][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2019.03.06-18.07.37:911][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2019.03.06-18.07.37:928][  0]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.03.06-18.07.37:931][  0]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2019.03.06-18.07.37:937][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2019.03.06-18.07.38:039][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
-[2019.03.06-18.07.38:178][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.03.06-18.07.38:193][  0]LogSlate: Window 'Tutorials' being destroyed
-[2019.03.06-18.07.38:227][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.03.06-18.07.38:228][  0]LogLoad: (Engine Initialization) Total time: 16.30 seconds
-[2019.03.06-18.07.38:228][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.03.06-18.07.38:583][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.03.06-18.07.38:928][  1]LogAssetRegistry: Asset discovery search completed in 10.2083 seconds
-[2019.03.06-18.07.38:930][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2019.03.06-18.07.38:930][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
-[2019.03.06-18.07.58:558][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.03.06-18.07.58:643][547]LogTemp: Repeating last play command: Selected Viewport
-[2019.03.06-18.07.58:659][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2019.03.06-18.07.58:659][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2019.03.06-18.07.58:660][547]PIE: New page: PIE session: TopDownExampleMap (6 Mar 2019 18:07:58)
-[2019.03.06-18.07.58:660][547]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
-[2019.03.06-18.07.58:686][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026342s)
-[2019.03.06-18.07.58:687][547]LogAIModule: Creating AISystem for world TopDownExampleMap
-[2019.03.06-18.07.58:687][547]LogPlayLevel: PIE: World Init took: (0.000667s)
-[2019.03.06-18.07.58:687][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.027204s)
-[2019.03.06-18.07.58:702][547]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.03.06-18.07.58:725][547]LogInit: FAudioDevice initialized.
-[2019.03.06-18.07.58:772][547]LogLoad: Game class is 'TopDownGameMode_C'
-[2019.03.06-18.07.58:777][547]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.06-18.07.58
-[2019.03.06-18.07.58:777][547]LogWorld: Bringing up level for play took: 0.004223
-[2019.03.06-18.07.58:778][547]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2019.03.06-18.07.58:781][547]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
-[2019.03.06-18.07.58:782][547]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.969
-[2019.03.06-18.07.58:782][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2019.03.06-18.07.58:783][547]LogBlueprintUserMessages: [DodgeAnim_C_0] 8.166885
-[2019.03.06-18.07.58:829][548]LogBlueprintUserMessages: [DodgeAnim_C_0] 189.916153
-[2019.03.06-18.07.58:845][549]LogBlueprintUserMessages: [DodgeAnim_C_0] 205.526581
-[2019.03.06-18.07.58:855][550]LogBlueprintUserMessages: [DodgeAnim_C_0] 215.089859
-[2019.03.06-18.07.58:865][551]LogBlueprintUserMessages: [DodgeAnim_C_0] 223.740692
-[2019.03.06-18.07.58:874][552]LogBlueprintUserMessages: [DodgeAnim_C_0] 234.093704
-[2019.03.06-18.07.58:883][553]LogBlueprintUserMessages: [DodgeAnim_C_0] 242.26088
-[2019.03.06-18.07.58:891][554]LogBlueprintUserMessages: [DodgeAnim_C_0] 250.427765
-[2019.03.06-18.07.58:899][555]LogBlueprintUserMessages: [DodgeAnim_C_0] 258.594635
-[2019.03.06-18.07.58:907][556]LogBlueprintUserMessages: [DodgeAnim_C_0] 266.76181
-[2019.03.06-18.07.58:916][557]LogBlueprintUserMessages: [DodgeAnim_C_0] 274.928711
-[2019.03.06-18.07.58:924][558]LogBlueprintUserMessages: [DodgeAnim_C_0] 283.095581
-[2019.03.06-18.07.58:932][559]LogBlueprintUserMessages: [DodgeAnim_C_0] 291.262451
-[2019.03.06-18.07.58:941][560]LogBlueprintUserMessages: [DodgeAnim_C_0] 299.429626
-[2019.03.06-18.07.58:949][561]LogBlueprintUserMessages: [DodgeAnim_C_0] 307.596497
-[2019.03.06-18.07.58:957][562]LogBlueprintUserMessages: [DodgeAnim_C_0] 315.763367
-[2019.03.06-18.07.58:966][563]LogBlueprintUserMessages: [DodgeAnim_C_0] 323.930237
-[2019.03.06-18.07.58:974][564]LogBlueprintUserMessages: [DodgeAnim_C_0] 332.097992
-[2019.03.06-18.07.58:982][565]LogBlueprintUserMessages: [DodgeAnim_C_0] 340.265167
-[2019.03.06-18.07.58:991][566]LogBlueprintUserMessages: [DodgeAnim_C_0] 348.432343
-[2019.03.06-18.07.58:999][567]LogBlueprintUserMessages: [DodgeAnim_C_0] 356.599213
-[2019.03.06-18.07.59:007][568]LogBlueprintUserMessages: [DodgeAnim_C_0] 364.766388
-[2019.03.06-18.07.59:016][569]LogBlueprintUserMessages: [DodgeAnim_C_0] 372.933289
-[2019.03.06-18.07.59:027][570]LogBlueprintUserMessages: [DodgeAnim_C_0] 383.271942
-[2019.03.06-18.07.59:035][571]LogBlueprintUserMessages: [DodgeAnim_C_0] 391.439117
-[2019.03.06-18.07.59:043][572]LogBlueprintUserMessages: [DodgeAnim_C_0] 399.606293
-[2019.03.06-18.07.59:051][573]LogBlueprintUserMessages: [DodgeAnim_C_0] 407.773193
-[2019.03.06-18.07.59:060][574]LogBlueprintUserMessages: [DodgeAnim_C_0] 415.940369
-[2019.03.06-18.07.59:068][575]LogBlueprintUserMessages: [DodgeAnim_C_0] 424.107239
-[2019.03.06-18.07.59:077][576]LogBlueprintUserMessages: [DodgeAnim_C_0] 432.274109
-[2019.03.06-18.07.59:091][577]LogBlueprintUserMessages: [DodgeAnim_C_0] 445.918549
-[2019.03.06-18.07.59:103][578]LogBlueprintUserMessages: [DodgeAnim_C_0] 458.082367
-[2019.03.06-18.07.59:115][579]LogBlueprintUserMessages: [DodgeAnim_C_0] 470.072327
-[2019.03.06-18.07.59:123][580]LogBlueprintUserMessages: [DodgeAnim_C_0] 478.239197
-[2019.03.06-18.07.59:131][581]LogBlueprintUserMessages: [DodgeAnim_C_0] 486.406067
-[2019.03.06-18.07.59:140][582]LogBlueprintUserMessages: [DodgeAnim_C_0] 494.576965
-[2019.03.06-18.07.59:148][583]LogBlueprintUserMessages: [DodgeAnim_C_0] 502.743835
-[2019.03.06-18.07.59:156][584]LogBlueprintUserMessages: [DodgeAnim_C_0] 510.910706
-[2019.03.06-18.07.59:165][585]LogBlueprintUserMessages: [DodgeAnim_C_0] 519.077881
-[2019.03.06-18.07.59:173][586]LogBlueprintUserMessages: [DodgeAnim_C_0] 527.244751
-[2019.03.06-18.07.59:181][587]LogBlueprintUserMessages: [DodgeAnim_C_0] 535.411926
-[2019.03.06-18.07.59:190][588]LogBlueprintUserMessages: [DodgeAnim_C_0] 543.579102
-[2019.03.06-18.07.59:198][589]LogBlueprintUserMessages: [DodgeAnim_C_0] 551.745972
-[2019.03.06-18.07.59:207][590]LogBlueprintUserMessages: [DodgeAnim_C_0] 559.913452
-[2019.03.06-18.07.59:215][591]LogBlueprintUserMessages: [DodgeAnim_C_0] 568.080627
-[2019.03.06-18.07.59:223][592]LogBlueprintUserMessages: [DodgeAnim_C_0] 576.247498
-[2019.03.06-18.07.59:231][593]LogBlueprintUserMessages: [DodgeAnim_C_0] 584.414368
-[2019.03.06-18.07.59:240][594]LogBlueprintUserMessages: [DodgeAnim_C_0] 592.581543
-[2019.03.06-18.07.59:248][595]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:256][596]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:264][597]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:276][598]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:284][599]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:293][600]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:301][601]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:315][602]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:323][603]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:333][604]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:341][605]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:349][606]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:358][607]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:366][608]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:374][609]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:383][610]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:391][611]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:399][612]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:412][613]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:420][614]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:429][615]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:441][616]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:449][617]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:458][618]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:466][619]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:474][620]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:483][621]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:491][622]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:499][623]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:508][624]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:516][625]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:524][626]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:533][627]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:546][628]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:558][629]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:569][630]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:583][631]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:596][632]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:603][633]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:612][634]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:620][635]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:629][636]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:639][637]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:652][638]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:661][639]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:673][640]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:681][641]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:690][642]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:698][643]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:706][644]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:715][645]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:723][646]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:731][647]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:740][648]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:748][649]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:756][650]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:765][651]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:773][652]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:782][653]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:796][654]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:810][655]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:818][656]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:826][657]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:835][658]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.07.59:844][659]LogBlueprintUserMessages: [DodgeAnim_C_0] 10.417373
-[2019.03.06-18.07.59:852][660]LogBlueprintUserMessages: [DodgeAnim_C_0] 20.834328
-[2019.03.06-18.07.59:860][661]LogBlueprintUserMessages: [DodgeAnim_C_0] 31.251375
-[2019.03.06-18.07.59:869][662]LogBlueprintUserMessages: [DodgeAnim_C_0] 41.668427
-[2019.03.06-18.07.59:877][663]LogBlueprintUserMessages: [DodgeAnim_C_0] 52.085476
-[2019.03.06-18.07.59:885][664]LogBlueprintUserMessages: [DodgeAnim_C_0] 62.502522
-[2019.03.06-18.07.59:894][665]LogBlueprintUserMessages: [DodgeAnim_C_0] 72.919777
-[2019.03.06-18.07.59:905][666]LogBlueprintUserMessages: [DodgeAnim_C_0] 86.366058
-[2019.03.06-18.07.59:918][667]LogBlueprintUserMessages: [DodgeAnim_C_0] 102.856491
-[2019.03.06-18.07.59:926][668]LogBlueprintUserMessages: [DodgeAnim_C_0] 113.273735
-[2019.03.06-18.07.59:938][669]LogBlueprintUserMessages: [DodgeAnim_C_0] 128.054611
-[2019.03.06-18.07.59:946][670]LogBlueprintUserMessages: [DodgeAnim_C_0] 138.471634
-[2019.03.06-18.07.59:954][671]LogBlueprintUserMessages: [DodgeAnim_C_0] 148.888519
-[2019.03.06-18.07.59:962][672]LogBlueprintUserMessages: [DodgeAnim_C_0] 159.305511
-[2019.03.06-18.07.59:971][673]LogBlueprintUserMessages: [DodgeAnim_C_0] 169.722549
-[2019.03.06-18.07.59:979][674]LogBlueprintUserMessages: [DodgeAnim_C_0] 180.139877
-[2019.03.06-18.07.59:987][675]LogBlueprintUserMessages: [DodgeAnim_C_0] 190.55722
-[2019.03.06-18.07.59:996][676]LogBlueprintUserMessages: [DodgeAnim_C_0] 200.974503
-[2019.03.06-18.08.00:004][677]LogBlueprintUserMessages: [DodgeAnim_C_0] 211.391846
-[2019.03.06-18.08.00:012][678]LogBlueprintUserMessages: [DodgeAnim_C_0] 221.808823
-[2019.03.06-18.08.00:021][679]LogBlueprintUserMessages: [DodgeAnim_C_0] 232.225769
-[2019.03.06-18.08.00:033][680]LogBlueprintUserMessages: [DodgeAnim_C_0] 236.274765
-[2019.03.06-18.08.00:040][681]LogBlueprintUserMessages: [DodgeAnim_C_0] 241.011185
-[2019.03.06-18.08.00:052][682]LogBlueprintUserMessages: [DodgeAnim_C_0] 249.420349
-[2019.03.06-18.08.00:060][683]LogBlueprintUserMessages: [DodgeAnim_C_0] 256.541687
-[2019.03.06-18.08.00:069][684]LogBlueprintUserMessages: [DodgeAnim_C_0] 264.327881
-[2019.03.06-18.08.00:077][685]LogBlueprintUserMessages: [DodgeAnim_C_0] 272.642731
-[2019.03.06-18.08.00:086][686]LogBlueprintUserMessages: [DodgeAnim_C_0] 265.755646
-[2019.03.06-18.08.00:094][687]LogBlueprintUserMessages: [DodgeAnim_C_0] 262.33847
-[2019.03.06-18.08.00:102][688]LogBlueprintUserMessages: [DodgeAnim_C_0] 261.705139
-[2019.03.06-18.08.00:111][689]LogBlueprintUserMessages: [DodgeAnim_C_0] 263.245361
-[2019.03.06-18.08.00:119][690]LogBlueprintUserMessages: [DodgeAnim_C_0] 266.540833
-[2019.03.06-18.08.00:127][691]LogBlueprintUserMessages: [DodgeAnim_C_0] 271.250397
-[2019.03.06-18.08.00:136][692]LogBlueprintUserMessages: [DodgeAnim_C_0] 277.08902
-[2019.03.06-18.08.00:144][693]LogBlueprintUserMessages: [DodgeAnim_C_0] 283.834137
-[2019.03.06-18.08.00:153][694]LogBlueprintUserMessages: [DodgeAnim_C_0] 291.302856
-[2019.03.06-18.08.00:161][695]LogBlueprintUserMessages: [DodgeAnim_C_0] 299.356171
-[2019.03.06-18.08.00:169][696]LogBlueprintUserMessages: [DodgeAnim_C_0] 307.86792
-[2019.03.06-18.08.00:183][697]LogBlueprintUserMessages: [DodgeAnim_C_0] 297.929169
-[2019.03.06-18.08.00:196][698]LogBlueprintUserMessages: [DodgeAnim_C_0] 295.350159
-[2019.03.06-18.08.00:203][699]LogBlueprintUserMessages: [DodgeAnim_C_0] 296.676208
-[2019.03.06-18.08.00:212][700]LogBlueprintUserMessages: [DodgeAnim_C_0] 299.759918
-[2019.03.06-18.08.00:225][701]LogBlueprintUserMessages: [DodgeAnim_C_0] 307.266724
-[2019.03.06-18.08.00:233][702]LogBlueprintUserMessages: [DodgeAnim_C_0] 313.838104
-[2019.03.06-18.08.00:242][703]LogBlueprintUserMessages: [DodgeAnim_C_0] 320.897766
-[2019.03.06-18.08.00:250][704]LogBlueprintUserMessages: [DodgeAnim_C_0] 328.603638
-[2019.03.06-18.08.00:258][705]LogBlueprintUserMessages: [DodgeAnim_C_0] 336.830933
-[2019.03.06-18.08.00:267][706]LogBlueprintUserMessages: [DodgeAnim_C_0] 345.477173
-[2019.03.06-18.08.00:275][707]LogBlueprintUserMessages: [DodgeAnim_C_0] 354.459839
-[2019.03.06-18.08.00:284][708]LogBlueprintUserMessages: [DodgeAnim_C_0] 363.715759
-[2019.03.06-18.08.00:292][709]LogBlueprintUserMessages: [DodgeAnim_C_0] 373.190002
-[2019.03.06-18.08.00:300][710]LogBlueprintUserMessages: [DodgeAnim_C_0] 382.841644
-[2019.03.06-18.08.00:308][711]LogBlueprintUserMessages: [DodgeAnim_C_0] 392.636566
-[2019.03.06-18.08.00:317][712]LogBlueprintUserMessages: [DodgeAnim_C_0] 402.548279
-[2019.03.06-18.08.00:325][713]LogBlueprintUserMessages: [DodgeAnim_C_0] 412.553925
-[2019.03.06-18.08.00:333][714]LogBlueprintUserMessages: [DodgeAnim_C_0] 422.636658
-[2019.03.06-18.08.00:342][715]LogBlueprintUserMessages: [DodgeAnim_C_0] 424.145386
-[2019.03.06-18.08.00:355][716]LogBlueprintUserMessages: [DodgeAnim_C_0] 429.704254
-[2019.03.06-18.08.00:363][717]LogBlueprintUserMessages: [DodgeAnim_C_0] 408.945435
-[2019.03.06-18.08.00:371][718]LogBlueprintUserMessages: [DodgeAnim_C_0] 393.767914
-[2019.03.06-18.08.00:380][719]LogBlueprintUserMessages: [DodgeAnim_C_0] 350.837097
-[2019.03.06-18.08.00:388][720]LogBlueprintUserMessages: [DodgeAnim_C_0] 317.040863
-[2019.03.06-18.08.00:403][721]LogBlueprintUserMessages: [DodgeAnim_C_0] 275.507416
-[2019.03.06-18.08.00:411][722]LogBlueprintUserMessages: [DodgeAnim_C_0] 260.570221
-[2019.03.06-18.08.00:419][723]LogBlueprintUserMessages: [DodgeAnim_C_0] 250.400436
-[2019.03.06-18.08.00:427][724]LogBlueprintUserMessages: [DodgeAnim_C_0] 244.185028
-[2019.03.06-18.08.00:436][725]LogBlueprintUserMessages: [DodgeAnim_C_0] 241.223282
-[2019.03.06-18.08.00:444][726]LogBlueprintUserMessages: [DodgeAnim_C_0] 240.913757
-[2019.03.06-18.08.00:452][727]LogBlueprintUserMessages: [DodgeAnim_C_0] 242.750916
-[2019.03.06-18.08.00:461][728]LogBlueprintUserMessages: [DodgeAnim_C_0] 246.314346
-[2019.03.06-18.08.00:469][729]LogBlueprintUserMessages: [DodgeAnim_C_0] 251.272705
-[2019.03.06-18.08.00:482][730]LogBlueprintUserMessages: [DodgeAnim_C_0] 261.13269
-[2019.03.06-18.08.00:490][731]LogBlueprintUserMessages: [DodgeAnim_C_0] 268.492218
-[2019.03.06-18.08.00:500][732]LogBlueprintUserMessages: [DodgeAnim_C_0] 278.179688
-[2019.03.06-18.08.00:509][733]LogBlueprintUserMessages: [DodgeAnim_C_0] 286.728149
-[2019.03.06-18.08.00:517][734]LogBlueprintUserMessages: [DodgeAnim_C_0] 295.645569
-[2019.03.06-18.08.00:525][735]LogBlueprintUserMessages: [DodgeAnim_C_0] 304.857574
-[2019.03.06-18.08.00:534][736]LogBlueprintUserMessages: [DodgeAnim_C_0] 243.629807
-[2019.03.06-18.08.00:548][737]LogBlueprintUserMessages: [DodgeAnim_C_0] 158.789749
-[2019.03.06-18.08.00:560][738]LogBlueprintUserMessages: [DodgeAnim_C_0] 103.373817
-[2019.03.06-18.08.00:568][739]LogBlueprintUserMessages: [DodgeAnim_C_0] 75.726357
-[2019.03.06-18.08.00:577][740]LogBlueprintUserMessages: [DodgeAnim_C_0] 52.687366
-[2019.03.06-18.08.00:585][741]LogBlueprintUserMessages: [DodgeAnim_C_0] 33.488201
-[2019.03.06-18.08.00:593][742]LogBlueprintUserMessages: [DodgeAnim_C_0] 17.475208
-[2019.03.06-18.08.00:602][743]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:610][744]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:623][745]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:631][746]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:639][747]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:648][748]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:656][749]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:664][750]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:673][751]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:681][752]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:689][753]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:698][754]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:706][755]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:714][756]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:723][757]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:731][758]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
-[2019.03.06-18.08.00:732][758]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2019.03.06-18.08.00:767][758]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2019.03.06-18.08.01:736][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.03.06-18.08.07:175][509]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
-[2019.03.06-18.08.07:313][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.03.06-18.08.22:172][509]LogSlate: Window 'Submit Files' being destroyed
-[2019.03.06-18.08.22:186][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.03.06-18.08.22:465][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.03.06-18.08.26:073][509]LogSourceControl: commit successful: [master 810e322] Level Base Implemented!!
-[2019.03.06-18.08.26:327][509]SourceControl: [master 810e322] Level Base Implemented!!
-[2019.03.06-18.08.26:327][509]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
-[2019.03.06-18.08.26:327][509]SourceControl:  rewrite Content/TopDownBP/Blueprints/TopDownCharacter.uasset (86%)
-[2019.03.06-18.08.26:338][509]SourceControl: Commited [master 810e322] Level Base Implemented!!.
+[2019.03.06-18.15.15:986][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.06-18.15.16:002][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cc4b6ab880, Size=96
+[2019.03.06-18.15.16:002][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cc4b789300, Size=256
+[2019.03.06-18.15.16:002][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cc4f26a500, Size=176
+[2019.03.06-18.15.16:003][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.06-18.15.16:125][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.292ms to complete.
+[2019.03.06-18.15.16:125][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.959
+[2019.03.06-18.15.16:218][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.06-18.15.16:218][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.06-18.15.16:326][  0]LogCollectionManager: Loaded 0 collections in 0.001718 seconds
+[2019.03.06-18.15.16:369][  0]LogFileCache: Scanning file cache for directory 'D:/Milosz/BA2bUnit/Saved/Collections/' took 0.01s
+[2019.03.06-18.15.16:369][  0]LogFileCache: Scanning file cache for directory 'D:/Milosz/BA2bUnit/Content/Developers/1600738/Collections/' took 0.01s
+[2019.03.06-18.15.16:369][  0]LogFileCache: Scanning file cache for directory 'D:/Milosz/BA2bUnit/Content/Collections/' took 0.01s
+[2019.03.06-18.15.16:369][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.06-18.15.16:378][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2452 classes and 558 folders.
+[2019.03.06-18.15.16:385][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.06-18.15.16:459][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.06-18.15.16:466][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.06-18.15.16:485][  0]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.06-18.15.16:487][  0]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.06-18.15.16:492][  0]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.06-18.15.16:594][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.03.06-18.15.16:759][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.06-18.15.16:774][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.03.06-18.15.16:809][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.06-18.15.16:809][  0]LogLoad: (Engine Initialization) Total time: 16.82 seconds
+[2019.03.06-18.15.16:809][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.06-18.15.16:836][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.06-18.15.16:925][  1]LogAssetRegistry: Asset discovery search completed in 10.1228 seconds
+[2019.03.06-18.15.16:928][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.06-18.15.16:928][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.03.06-18.15.33:769][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.06-18.15.38:877][528]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2019.03.06-18.15.39:000][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.06-18.15.43:351][528]LogSlate: Window 'Submit Files' being destroyed
+[2019.03.06-18.15.43:364][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.06-18.15.43:598][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.06-18.15.46:736][528]LogSourceControl: commit successful: [master 2f2d282] XD
+[2019.03.06-18.15.47:001][528]SourceControl: [master 2f2d282] XD
+[2019.03.06-18.15.47:001][528]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2019.03.06-18.15.47:001][528]SourceControl:  rewrite Content/TopDownBP/Blueprints/TopDownCharacter.uasset (86%)
+[2019.03.06-18.15.47:013][528]SourceControl: Commited [master 2f2d282] XD.
