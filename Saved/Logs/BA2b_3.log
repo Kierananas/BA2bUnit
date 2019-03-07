@@ -1,0 +1,2035 @@
+﻿Log file open, 03/06/19 19:49:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BA2b
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(818054458) SRandInit(818054458).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.217788
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.561s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am KieransLaptop (192.168.1.192:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.029s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.06-19.49.31:445][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.06-19.49.31:445][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.06-19.49.31:470][  0]LogInit: Computer: KIERANSLAPTOP
+[2019.03.06-19.49.31:470][  0]LogInit: User: kadam
+[2019.03.06-19.49.31:470][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.06-19.49.31:470][  0]LogInit: High frequency timer resolution =2.437501 MHz
+[2019.03.06-19.49.31:472][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.06-19.49.31:472][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.06-19.49.31:472][  0]LogMemory: Process Physical Memory: 273.62 MB used, 273.62 MB peak
+[2019.03.06-19.49.31:472][  0]LogMemory: Process Virtual Memory: 266.00 MB used, 266.00 MB peak
+[2019.03.06-19.49.31:472][  0]LogMemory: Physical Memory: 8731.67 MB used,  7537.35 MB free, 16269.02 MB total
+[2019.03.06-19.49.31:472][  0]LogMemory: Virtual Memory: 4786.42 MB used,  7537.35 MB free, 134217728.00 MB total
+[2019.03.06-19.49.31:531][  0]LogInit: Using OS detected language (en-GB).
+[2019.03.06-19.49.31:534][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.06-19.49.31:546][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.03.06-19.49.32:464][  0]LogStreaming: Display: Took  0.933s to EndInitTextLocalization.
+[2019.03.06-19.49.32:465][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.06-19.49.32:513][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.06-19.49.32:513][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.06-19.49.33:021][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.06-19.49.33:131][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.03.06-19.49.33:131][  0]LogD3D11RHI:       4021/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.03.06-19.49.33:142][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.06-19.49.33:142][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.06-19.49.33:147][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.06-19.49.33:147][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.06-19.49.33:147][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.06-19.49.33:199][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.06-19.49.33:200][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.03.06-19.49.33:200][  0]LogWindows: EnumDisplayDevices:
+[2019.03.06-19.49.33:200][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.06-19.49.33:200][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.03.06-19.49.33:200][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.06-19.49.33:201][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.06-19.49.33:201][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.03.06-19.49.33:201][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.06-19.49.33:201][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.06-19.49.33:201][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.03.06-19.49.33:291][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.03.06-19.49.33:291][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.03.06-19.49.33:291][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.06-19.49.33:360][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.06-19.49.33:363][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (C:/Users/kadam/Documents/Unreal Projects/BA2b/Intermediate/Shaders/WorkingDirectory/12012/).
+[2019.03.06-19.49.33:363][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kadam/AppData/Local/Temp/UnrealShaderWorkingDir/460555CE48AF941B542E5895B97A17C4/'.
+[2019.03.06-19.49.33:750][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.06-19.49.33:772][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.06-19.49.33:790][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.06-19.49.33:808][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.06-19.49.33:831][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.06-19.49.33:852][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.06-19.49.33:869][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.06-19.49.33:892][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.06-19.49.33:903][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.06-19.49.33:920][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.03.06-19.49.33:941][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.03.06-19.49.33:960][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.03.06-19.49.33:976][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.03.06-19.49.33:997][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.03.06-19.49.34:015][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.03.06-19.49.34:055][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.03.06-19.49.34:055][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.03.06-19.49.34:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.06-19.49.34:076][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.06-19.49.34:126][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.06-19.49.34:142][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.06-19.49.34:162][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.06-19.49.34:178][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.06-19.49.34:193][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.06-19.49.34:214][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.06-19.49.34:214][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.06-19.49.34:368][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.06-19.49.34:368][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.06-19.49.34:368][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.06-19.49.35:870][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.06-19.49.36:030][  0]LogDerivedDataCache: Loaded boot cache 0.16s 74MB C:/Users/kadam/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.06-19.49.36:030][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kadam/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.03.06-19.49.36:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/kadam/Documents/Unreal Projects/BA2b/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.06-19.49.36:030][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.06-19.49.36:031][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/kadam/Documents/Unreal Projects/BA2b/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.06-19.49.36:031][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.06-19.49.36:060][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.06-19.49.36:076][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kadam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.06-19.49.36:076][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.06-19.49.36:076][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.06-19.49.36:096][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.06-19.49.36:097][  0]LogSlate: Using Freetype 2.6.0
+[2019.03.06-19.49.36:099][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.06-19.49.36:100][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.06-19.49.36:312][  0]LogAssetRegistry: FAssetRegistry took 0.0350 seconds to start up
+[2019.03.06-19.49.36:906][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.06-19.49.37:161][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.06-19.49.37:164][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.06-19.49.37:164][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.06-19.49.37:164][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.06-19.49.37:164][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.03.06-19.49.37:164][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.03.06-19.49.37:237][  0]LogNetVersion: BA2b , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2146082067)
+[2019.03.06-19.49.38:016][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.102871 seconds
+[2019.03.06-19.49.38:027][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.03.06-19.49.38:027][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2019.03.06-19.49.38:027][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.06-19.49.40:631][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.06-19.49.40:671][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.06-19.49.41:170][  0]SourceControl: Source control is disabled
+[2019.03.06-19.49.42:638][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.06-19.49.43:069][  0]LogOcInput: OculusInput pre-init called
+[2019.03.06-19.49.43:214][  0]LogEngine: Initializing Engine...
+[2019.03.06-19.49.43:216][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.06-19.49.43:219][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.06-19.49.43:219][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.06-19.49.43:569][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.06-19.49.43:652][  0]LogInit: XAudio2 using 'SE790C (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.06-19.49.43:731][  0]LogInit: FAudioDevice initialized.
+[2019.03.06-19.49.43:909][  0]LogDerivedDataCache: Saved boot cache 0.18s 74MB C:/Users/kadam/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.06-19.49.43:933][  0]LogInit: Texture streaming: Enabled
+[2019.03.06-19.49.43:950][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.06-19.49.43:967][  0]LogInit: Transaction tracking system initialized
+[2019.03.06-19.49.43:997][  0]BlueprintLog: New page: Editor Load
+[2019.03.06-19.49.44:098][  0]LocalizationService: Localization service is disabled
+[2019.03.06-19.49.44:226][  0]LogConsoleResponse: Display: 
+[2019.03.06-19.49.44:477][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.06-19.49.44:477][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.06-19.49.44:477][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.06-19.49.44:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.06-19.49.44:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.06-19.49.44:980][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/' took 0.02s
+[2019.03.06-19.49.44:980][  0]Cmd: MAP LOAD FILE="C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.06-19.49.44:981][  0]LightingResults: New page: Lighting Build
+[2019.03.06-19.49.44:984][  0]MapCheck: New page: Map Check
+[2019.03.06-19.49.44:984][  0]LightingResults: New page: Lighting Build
+[2019.03.06-19.49.45:089][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b7d53ae620, Size=96, Default__DodgeAnim_C Function /Game/TopDownBP/Character/DodgeAnim.DodgeAnim_C:ExecuteUbergraph_DodgeAnim
+[2019.03.06-19.49.45:093][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b7f2c00200, Size=256, Default__TopDownCharacter_C Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2019.03.06-19.49.45:189][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b7d53ae620, Size=96
+[2019.03.06-19.49.45:189][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b7d77a3880, Size=96, Default__DodgeAnim_C Function /Engine/Transient.REINST_DodgeAnim_C_0:ExecuteUbergraph_DodgeAnim
+[2019.03.06-19.49.45:190][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b7f2c00200, Size=256
+[2019.03.06-19.49.45:190][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b7d7813400, Size=256, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_4:ExecuteUbergraph_TopDownCharacter
+[2019.03.06-19.49.45:219][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b7e09ba800, Size=96, Default__DodgeAnim_C Function /Game/TopDownBP/Character/DodgeAnim.DodgeAnim_C:ExecuteUbergraph_DodgeAnim
+[2019.03.06-19.49.45:225][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b7e09faf00, Size=256, Default__TopDownCharacter_C Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2019.03.06-19.49.45:369][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b7dc8c9480, Size=176, Default__TopDownController_C Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
+[2019.03.06-19.49.45:374][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b7dc8c9480, Size=176
+[2019.03.06-19.49.45:374][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b7dc8c9480, Size=176, Default__TopDownController_C Function /Engine/Transient.REINST_TopDownController_C_10:ExecuteUbergraph_TopDownController
+[2019.03.06-19.49.45:383][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b7dc80e5c0, Size=176, Default__TopDownController_C Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
+[2019.03.06-19.49.45:653][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.102767ms] /Game/TopDownBP/Character/Idle__1_.Idle__1_
+[2019.03.06-19.49.45:925][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.06-19.49.45:944][  0]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.49.45:945][  0]LogScript: Warning: Accessed None trying to read property TopDownCharacterReferrence
+	DodgeAnim_C /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter.CharacterMesh0.DodgeAnim_C_0
+	Function /Game/TopDownBP/Character/DodgeAnim.DodgeAnim_C:ExecuteUbergraph_DodgeAnim:03E1
+[2019.03.06-19.49.45:945][  0]LogScript: Warning: Accessed None trying to read property TopDownCharacterReferrence
+	DodgeAnim_C /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter.CharacterMesh0.DodgeAnim_C_0
+	Function /Game/TopDownBP/Character/DodgeAnim.DodgeAnim_C:ExecuteUbergraph_DodgeAnim:02F2
+[2019.03.06-19.49.45:953][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.06-19.49.45:976][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b7d77a3880, Size=96
+[2019.03.06-19.49.45:976][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b7d7813400, Size=256
+[2019.03.06-19.49.45:976][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b7dc8c9480, Size=176
+[2019.03.06-19.49.45:977][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.06-19.49.46:060][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.527ms to complete.
+[2019.03.06-19.49.46:060][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.080
+[2019.03.06-19.49.46:285][  0]LogCollectionManager: Loaded 0 collections in 0.002534 seconds
+[2019.03.06-19.49.46:342][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Saved/Collections/' took 0.01s
+[2019.03.06-19.49.46:342][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/Developers/kadam/Collections/' took 0.01s
+[2019.03.06-19.49.46:342][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/Collections/' took 0.01s
+[2019.03.06-19.49.46:342][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.06-19.49.46:356][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 2452 classes and 558 folders.
+[2019.03.06-19.49.46:365][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.03.06-19.49.46:442][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.06-19.49.46:451][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.06-19.49.46:615][  0]LogSlate: Took 0.003093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.06-19.49.46:624][  0]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.06-19.49.46:643][  0]LogSlate: Took 0.000498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.06-19.49.46:777][  0]LogRenderer: Reallocating scene render targets to support 2172x936 Format 10 NumSamples 1 (Frame:1).
+[2019.03.06-19.49.47:170][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.06-19.49.47:171][  0]LogLoad: (Engine Initialization) Total time: 19.28 seconds
+[2019.03.06-19.49.47:171][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.06-19.49.47:546][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.06-19.49.47:600][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.06-19.49.48:237][  2]LogAssetRegistry: Asset discovery search completed in 11.9488 seconds
+[2019.03.06-19.49.48:244][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.06-19.49.48:244][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000275 seconds (updated 0 objects)
+[2019.03.06-19.49.49:851][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-19.49.49:909][  9]LogSlate: Window 'Message Log' being destroyed
+[2019.03.06-19.49.49:917][  9]LogSlate: Window 'Message Log' being destroyed
+[2019.03.06-19.49.52:529][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-19.49.52:763][152]LogSlate: Took 0.000677 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.06-19.49.53:126][152]LogSavePackage: Save=293.30ms
+[2019.03.06-19.49.53:126][152]LogSavePackage: Moving 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Saved/TopDownExampleMap76A3474647186E82ED44BBBED022DDC6.tmp' to 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.06-19.49.53:166][152]LogSavePackage: Display: Finished SavePackage C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.06-19.49.53:352][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2019.03.06-19.49.53:614][152]LogSavePackage: Save=242.70ms
+[2019.03.06-19.49.53:614][152]LogSavePackage: Moving 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Saved/TopDownExampleMap_BuiltData6287DA3A4C12C5E8977217A2F707C0A7.tmp' to 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.03.06-19.49.53:620][152]LogSavePackage: Display: Finished SavePackage C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2019.03.06-19.50.00:200][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-19.50.05:150][743]LogMaterial: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2019.03.06-19.50.05:746][743]LogMaterial: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2019.03.06-19.50.05:770][743]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.06-19.50.05:770][743]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.06-19.50.05:770][743]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.06-19.50.05:831][743]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.06-19.50.06:692][749]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.06-19.50.06:782][750]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.06-19.50.07:112][751]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.06-19.50.07:112][751]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.06-19.50.07:612][752]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.06-19.50.07:612][752]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.06-19.50.10:198][753]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.06-19.50.10:199][753]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.06-19.50.10:199][753]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.06-19.50.10:199][753]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.06-19.50.10:199][753]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.06-19.50.10:199][753]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.06-19.50.10:199][753]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.06-19.50.10:199][753]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.06-19.50.10:199][753]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.06-19.50.10:199][753]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.06-19.50.12:412][754]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.06-19.50.12:412][754]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.06-19.50.12:412][754]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.06-19.50.12:412][754]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.06-19.50.12:412][754]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.06-19.50.12:788][764]MaterialEditorStats: Base pass shader: 96 instructions
+[2019.03.06-19.50.12:789][764]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 117 instructions
+[2019.03.06-19.50.12:789][764]MaterialEditorStats: Vertex shader: 113 instructions
+[2019.03.06-19.50.12:789][764]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.06-19.50.12:789][764]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.06-19.50.14:895][860]LogSlate: Window 'M_Cursor_Decal' being destroyed
+[2019.03.06-19.50.14:905][860]LogSlate: Window 'M_Cursor_Decal' being destroyed
+[2019.03.06-19.50.17:175][940]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2019.03.06-19.50.17:557][940]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b7849f3fb0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.06-19.50.17:558][940]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b7849f3fa8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.06-19.50.18:860][961]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.06-19.50.21:078][ 76]LogSlate: Window 'Lantern1' being destroyed
+[2019.03.06-19.50.39:103][ 48]LogRenderer: Reallocating scene render targets to support 2172x1032 Format 10 NumSamples 1 (Frame:1).
+[2019.03.06-19.50.43:780][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-19.50.43:880][319]BlueprintLog: New page: Compile Lantern1
+[2019.03.06-19.50.45:145][358]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.06-19.50.45:167][358]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.06-19.50.45:167][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.06-19.50.45:167][358]PIE: New page: PIE session: TopDownExampleMap (6 Mar 2019 19:50:45)
+[2019.03.06-19.50.45:167][358]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.06-19.50.45:203][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035339s)
+[2019.03.06-19.50.45:204][358]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.06-19.50.45:204][358]LogPlayLevel: PIE: World Init took: (0.001330s)
+[2019.03.06-19.50.45:204][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.037004s)
+[2019.03.06-19.50.45:258][358]LogInit: XAudio2 using 'SE790C (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.06-19.50.45:269][358]LogInit: FAudioDevice initialized.
+[2019.03.06-19.50.45:375][358]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.06-19.50.45:381][358]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.03.06-19.50.45
+[2019.03.06-19.50.45:382][358]LogWorld: Bringing up level for play took: 0.005779
+[2019.03.06-19.50.45:384][358]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.06-19.50.45:388][358]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2019.03.06-19.50.45:397][358]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.611
+[2019.03.06-19.50.45:398][358]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.06-19.50.45:407][358]LogBlueprintUserMessages: [DodgeAnim_C_0] 16.334127
+[2019.03.06-19.50.45:789][359]LogBlueprintUserMessages: [DodgeAnim_C_0] 408.334137
+[2019.03.06-19.50.45:814][360]LogBlueprintUserMessages: [DodgeAnim_C_0] 434.289764
+[2019.03.06-19.50.45:839][361]LogBlueprintUserMessages: [DodgeAnim_C_0] 459.033203
+[2019.03.06-19.50.45:857][362]LogBlueprintUserMessages: [DodgeAnim_C_0] 475.451752
+[2019.03.06-19.50.45:873][363]LogBlueprintUserMessages: [DodgeAnim_C_0] 491.845398
+[2019.03.06-19.50.45:895][364]LogBlueprintUserMessages: [DodgeAnim_C_0] 512.692932
+[2019.03.06-19.50.45:918][365]LogBlueprintUserMessages: [DodgeAnim_C_0] 536.778625
+[2019.03.06-19.50.45:935][366]LogBlueprintUserMessages: [DodgeAnim_C_0] 553.91687
+[2019.03.06-19.50.45:953][367]LogBlueprintUserMessages: [DodgeAnim_C_0] 571.369934
+[2019.03.06-19.50.45:975][368]LogBlueprintUserMessages: [DodgeAnim_C_0] 592.857544
+[2019.03.06-19.50.45:991][369]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:010][370]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:031][371]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:056][372]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:077][373]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:095][374]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:112][375]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:135][376]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:157][377]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:176][378]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:199][379]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:221][380]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:239][381]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:254][382]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:276][383]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:297][384]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:315][385]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:342][386]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:362][387]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:380][388]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:401][389]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:420][390]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:440][391]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:458][392]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:479][393]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:497][394]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:520][395]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:540][396]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:559][397]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:581][398]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:604][399]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:622][400]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:638][401]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:656][402]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:678][403]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:695][404]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:713][405]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:731][406]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:752][407]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:769][408]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:787][409]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:806][410]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:828][411]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:845][412]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:865][413]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:882][414]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:905][415]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:925][416]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:943][417]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:965][418]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.46:990][419]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:006][420]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:022][421]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:044][422]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:068][423]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:084][424]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:100][425]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:122][426]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:138][427]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:155][428]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:174][429]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:194][430]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:214][431]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:231][432]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:247][433]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:270][434]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:288][435]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:305][436]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:323][437]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:341][438]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:365][439]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:392][440]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:409][441]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:439][442]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:478][443]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:510][444]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:530][445]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:551][446]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:627][447]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:747][448]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:852][449]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:899][450]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:915][451]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:936][452]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.47:991][453]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:011][454]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:030][455]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:051][456]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:074][457]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:123][458]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:155][459]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:171][460]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:187][461]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:212][462]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:252][463]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:275][464]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:298][465]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:315][466]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:342][467]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:412][468]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:513][469]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:554][470]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:575][471]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:592][472]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:610][473]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:632][474]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:649][475]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:669][476]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:687][477]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:709][478]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:725][479]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:742][480]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:762][481]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:787][482]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:805][483]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:821][484]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:843][485]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:871][486]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:887][487]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:903][488]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:921][489]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:940][490]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:957][491]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:973][492]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.48:991][493]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:012][494]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:028][495]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:046][496]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:063][497]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:084][498]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:102][499]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:119][500]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:135][501]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:156][502]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:175][503]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:192][504]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:210][505]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:231][506]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:248][507]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:266][508]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:284][509]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:304][510]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:322][511]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:339][512]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:357][513]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:378][514]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:399][515]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:415][516]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:433][517]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:455][518]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:470][519]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:487][520]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:504][521]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:524][522]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:543][523]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:560][524]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:577][525]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:598][526]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:616][527]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:633][528]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:650][529]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:672][530]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:690][531]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:707][532]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:728][533]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:749][534]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:767][535]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:783][536]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:800][537]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:821][538]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:838][539]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:854][540]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:873][541]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:898][542]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:915][543]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:931][544]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:948][545]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:968][546]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.49:987][547]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:004][548]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:021][549]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:042][550]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:061][551]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:078][552]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:094][553]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:115][554]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:132][555]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:149][556]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:167][557]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:187][558]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:207][559]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:224][560]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:241][561]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:261][562]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:279][563]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:299][564]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:316][565]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:336][566]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:353][567]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:369][568]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:386][569]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:406][570]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:424][571]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:442][572]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:459][573]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:480][574]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:496][575]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:516][576]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:534][577]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:554][578]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:572][579]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:589][580]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:607][581]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:628][582]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:648][583]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:665][584]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:682][585]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:704][586]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:721][587]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:738][588]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:757][589]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:778][590]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:798][591]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:815][592]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:833][593]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:853][594]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:870][595]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:887][596]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:905][597]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:925][598]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:942][599]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:959][600]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:976][601]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.50:999][602]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:017][603]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:034][604]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:051][605]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:072][606]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:090][607]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:108][608]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:124][609]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:146][610]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:163][611]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:182][612]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:200][613]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:221][614]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:238][615]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:257][616]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:278][617]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:296][618]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:314][619]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:330][620]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:351][621]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:371][622]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:388][623]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:405][624]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:422][625]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:445][626]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:466][627]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:483][628]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:499][629]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:518][630]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:535][631]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:556][632]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:573][633]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:595][634]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:613][635]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:629][636]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:648][637]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:670][638]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:686][639]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:703][640]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:721][641]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:741][642]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:760][643]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:777][644]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:794][645]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:814][646]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:831][647]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:849][648]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:868][649]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:889][650]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:904][651]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:922][652]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:938][653]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:960][654]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:978][655]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.51:997][656]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:014][657]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:033][658]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:050][659]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:067][660]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:084][661]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:105][662]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:124][663]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:140][664]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:157][665]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:177][666]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:194][667]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:213][668]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:230][669]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:251][670]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:268][671]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:284][672]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:302][673]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:323][674]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:344][675]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:361][676]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:380][677]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:400][678]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:416][679]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:434][680]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:455][681]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:473][682]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:490][683]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:507][684]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:525][685]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:545][686]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:566][687]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:583][688]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:607][689]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:625][690]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:642][691]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:659][692]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:679][693]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:697][694]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:717][695]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:735][696]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:754][697]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:773][698]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:789][699]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:807][700]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:825][701]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:845][702]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:862][703]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:881][704]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:896][705]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:918][706]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:935][707]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:955][708]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:973][709]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.52:993][710]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:008][711]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:027][712]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:043][713]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:066][714]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:084][715]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:101][716]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:118][717]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:139][718]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:159][719]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:176][720]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:193][721]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:214][722]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:231][723]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:251][724]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:268][725]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:289][726]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:308][727]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:325][728]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:342][729]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:364][730]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:385][731]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:403][732]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:420][733]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:439][734]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:459][735]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:476][736]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:494][737]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:517][738]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:534][739]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:550][740]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:568][741]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:588][742]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:608][743]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:625][744]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:642][745]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:661][746]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:681][747]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:698][748]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:715][749]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:739][750]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:756][751]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:773][752]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:790][753]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:812][754]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:829][755]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:846][756]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:862][757]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:883][758]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:902][759]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:918][760]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:934][761]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:957][762]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:976][763]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.53:993][764]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:011][765]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:032][766]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:050][767]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:066][768]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:083][769]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:105][770]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:124][771]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:142][772]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:162][773]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:189][774]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:205][775]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:221][776]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:244][777]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:264][778]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:281][779]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:298][780]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:319][781]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:337][782]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:639][783]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.053711
+[2019.03.06-19.50.54:653][784]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:670][785]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:773][786]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:881][787]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:914][788]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:941][789]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:966][790]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.54:983][791]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:000][792]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:021][793]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:037][794]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:055][795]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:072][796]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:091][797]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:112][798]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:129][799]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:146][800]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:167][801]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:188][802]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:205][803]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:221][804]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:245][805]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:263][806]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:284][807]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:301][808]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:322][809]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:340][810]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:359][811]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:376][812]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:399][813]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:417][814]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:433][815]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:450][816]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:472][817]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:491][818]LogBlueprintUserMessages: [DodgeAnim_C_0] 23.814964
+[2019.03.06-19.50.55:508][819]LogBlueprintUserMessages: [DodgeAnim_C_0] 44.64946
+[2019.03.06-19.50.55:527][820]LogBlueprintUserMessages: [DodgeAnim_C_0] 67.712624
+[2019.03.06-19.50.55:545][821]LogBlueprintUserMessages: [DodgeAnim_C_0] 91.237259
+[2019.03.06-19.50.55:566][822]LogBlueprintUserMessages: [DodgeAnim_C_0] 117.334076
+[2019.03.06-19.50.55:583][823]LogBlueprintUserMessages: [DodgeAnim_C_0] 138.251465
+[2019.03.06-19.50.55:600][824]LogBlueprintUserMessages: [DodgeAnim_C_0] 159.085693
+[2019.03.06-19.50.55:622][825]LogBlueprintUserMessages: [DodgeAnim_C_0] 186.692368
+[2019.03.06-19.50.55:640][826]LogBlueprintUserMessages: [DodgeAnim_C_0] 210.042908
+[2019.03.06-19.50.55:658][827]LogBlueprintUserMessages: [DodgeAnim_C_0] 230.879395
+[2019.03.06-19.50.55:674][828]LogBlueprintUserMessages: [DodgeAnim_C_0] 251.71376
+[2019.03.06-19.50.55:695][829]LogBlueprintUserMessages: [DodgeAnim_C_0] 277.794373
+[2019.03.06-19.50.55:712][830]LogBlueprintUserMessages: [DodgeAnim_C_0] 164.360168
+[2019.03.06-19.50.55:731][831]LogBlueprintUserMessages: [DodgeAnim_C_0] 77.102524
+[2019.03.06-19.50.55:749][832]LogBlueprintUserMessages: [DodgeAnim_C_0] 27.917725
+[2019.03.06-19.50.55:772][833]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:790][834]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:806][835]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:826][836]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:847][837]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:864][838]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:880][839]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:898][840]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:918][841]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:935][842]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:951][843]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:972][844]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.55:989][845]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:006][846]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:025][847]LogBlueprintUserMessages: [DodgeAnim_C_0] 23.519423
+[2019.03.06-19.50.56:043][848]LogBlueprintUserMessages: [DodgeAnim_C_0] 44.35376
+[2019.03.06-19.50.56:067][849]LogBlueprintUserMessages: [DodgeAnim_C_0] 76.14653
+[2019.03.06-19.50.56:085][850]LogBlueprintUserMessages: [DodgeAnim_C_0] 96.980957
+[2019.03.06-19.50.56:102][851]LogBlueprintUserMessages: [DodgeAnim_C_0] 119.265991
+[2019.03.06-19.50.56:121][852]LogBlueprintUserMessages: [DodgeAnim_C_0] 55.834789
+[2019.03.06-19.50.56:140][853]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:157][854]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:173][855]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:191][856]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:211][857]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:231][858]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.060791
+[2019.03.06-19.50.56:248][859]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.210205
+[2019.03.06-19.50.56:265][860]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.44873
+[2019.03.06-19.50.56:287][861]LogBlueprintUserMessages: [DodgeAnim_C_0] 2425.536377
+[2019.03.06-19.50.56:306][862]LogBlueprintUserMessages: [DodgeAnim_C_0] 1427.933594
+[2019.03.06-19.50.56:323][863]LogBlueprintUserMessages: [DodgeAnim_C_0] 931.110779
+[2019.03.06-19.50.56:339][864]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.63855
+[2019.03.06-19.50.56:360][865]LogBlueprintUserMessages: [DodgeAnim_C_0] 328.991669
+[2019.03.06-19.50.56:378][866]LogBlueprintUserMessages: [DodgeAnim_C_0] 185.128632
+[2019.03.06-19.50.56:395][867]LogBlueprintUserMessages: [DodgeAnim_C_0] 102.584175
+[2019.03.06-19.50.56:413][868]LogBlueprintUserMessages: [DodgeAnim_C_0] 47.508831
+[2019.03.06-19.50.56:435][869]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:454][870]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:471][871]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:503][872]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:531][873]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:547][874]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:571][875]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:592][876]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:610][877]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:626][878]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:647][879]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:665][880]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:685][881]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:703][882]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:725][883]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:742][884]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:761][885]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:779][886]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:801][887]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:818][888]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:835][889]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:853][890]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:873][891]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:889][892]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:906][893]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:924][894]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:945][895]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:962][896]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:980][897]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.56:997][898]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:021][899]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:040][900]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:062][901]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:079][902]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:099][903]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:122][904]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:139][905]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:155][906]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:177][907]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:192][908]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:210][909]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:226][910]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:245][911]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:267][912]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:284][913]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:300][914]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:323][915]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:343][916]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:360][917]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:377][918]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:398][919]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:415][920]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:431][921]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:454][922]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:481][923]LogBlueprintUserMessages: [DodgeAnim_C_0] 34.360504
+[2019.03.06-19.50.57:498][924]LogBlueprintUserMessages: [DodgeAnim_C_0] 50.999245
+[2019.03.06-19.50.57:515][925]LogBlueprintUserMessages: [DodgeAnim_C_0] 70.392181
+[2019.03.06-19.50.57:538][926]LogBlueprintUserMessages: [DodgeAnim_C_0] 99.436722
+[2019.03.06-19.50.57:559][927]LogBlueprintUserMessages: [DodgeAnim_C_0] 126.572395
+[2019.03.06-19.50.57:579][928]LogBlueprintUserMessages: [DodgeAnim_C_0] 147.312759
+[2019.03.06-19.50.57:601][929]LogBlueprintUserMessages: [DodgeAnim_C_0] 168.720703
+[2019.03.06-19.50.57:623][930]LogBlueprintUserMessages: [DodgeAnim_C_0] 69.066811
+[2019.03.06-19.50.57:640][931]LogBlueprintUserMessages: [DodgeAnim_C_0] 25.2101
+[2019.03.06-19.50.57:658][932]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:678][933]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:700][934]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:718][935]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:734][936]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:752][937]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:773][938]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:789][939]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:805][940]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:822][941]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:843][942]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:861][943]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:881][944]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:898][945]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:919][946]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:936][947]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:953][948]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:972][949]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.57:993][950]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:011][951]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:028][952]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:045][953]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:067][954]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:085][955]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:103][956]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:122][957]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:141][958]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:158][959]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:176][960]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.054688
+[2019.03.06-19.50.58:192][961]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.197754
+[2019.03.06-19.50.58:218][962]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.590576
+[2019.03.06-19.50.58:234][963]LogBlueprintUserMessages: [DodgeAnim_C_0] 2266.981445
+[2019.03.06-19.50.58:251][964]LogBlueprintUserMessages: [DodgeAnim_C_0] 1463.632935
+[2019.03.06-19.50.58:271][965]LogBlueprintUserMessages: [DodgeAnim_C_0] 937.115662
+[2019.03.06-19.50.58:290][966]LogBlueprintUserMessages: [DodgeAnim_C_0] 517.601318
+[2019.03.06-19.50.58:307][967]LogBlueprintUserMessages: [DodgeAnim_C_0] 324.229614
+[2019.03.06-19.50.58:324][968]LogBlueprintUserMessages: [DodgeAnim_C_0] 186.704117
+[2019.03.06-19.50.58:344][969]LogBlueprintUserMessages: [DodgeAnim_C_0] 92.092964
+[2019.03.06-19.50.58:368][970]LogBlueprintUserMessages: [DodgeAnim_C_0] 23.685091
+[2019.03.06-19.50.58:384][971]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:401][972]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:420][973]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:439][974]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:457][975]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:473][976]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:492][977]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:514][978]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:532][979]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:547][980]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:564][981]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:586][982]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:602][983]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:618][984]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:637][985]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:659][986]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:675][987]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:691][988]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:708][989]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:731][990]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:750][991]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:768][992]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:784][993]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:806][994]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:825][995]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:843][996]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:859][997]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:880][998]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:897][999]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.50.58:915][  0]LogBlueprintUserMessages: [DodgeAnim_C_0] 22.436195
+[2019.03.06-19.50.58:932][  1]LogBlueprintUserMessages: [DodgeAnim_C_0] 43.271049
+[2019.03.06-19.50.58:952][  2]LogBlueprintUserMessages: [DodgeAnim_C_0] 69.070335
+[2019.03.06-19.50.58:972][  3]LogBlueprintUserMessages: [DodgeAnim_C_0] 94.317802
+[2019.03.06-19.50.58:989][  4]LogBlueprintUserMessages: [DodgeAnim_C_0] 115.151314
+[2019.03.06-19.50.59:009][  5]LogBlueprintUserMessages: [DodgeAnim_C_0] 138.458984
+[2019.03.06-19.50.59:030][  6]LogBlueprintUserMessages: [DodgeAnim_C_0] 165.762878
+[2019.03.06-19.50.59:049][  7]LogBlueprintUserMessages: [DodgeAnim_C_0] 190.257813
+[2019.03.06-19.50.59:066][  8]LogBlueprintUserMessages: [DodgeAnim_C_0] 211.307312
+[2019.03.06-19.50.59:084][  9]LogBlueprintUserMessages: [DodgeAnim_C_0] 232.493774
+[2019.03.06-19.50.59:107][ 10]LogBlueprintUserMessages: [DodgeAnim_C_0] 261.769592
+[2019.03.06-19.50.59:127][ 11]LogBlueprintUserMessages: [DodgeAnim_C_0] 286.481659
+[2019.03.06-19.50.59:144][ 12]LogBlueprintUserMessages: [DodgeAnim_C_0] 307.314972
+[2019.03.06-19.50.59:164][ 13]LogBlueprintUserMessages: [DodgeAnim_C_0] 330.700867
+[2019.03.06-19.50.59:184][ 14]LogBlueprintUserMessages: [DodgeAnim_C_0] 357.939301
+[2019.03.06-19.50.59:200][ 15]LogBlueprintUserMessages: [DodgeAnim_C_0] 378.773438
+[2019.03.06-19.50.59:216][ 16]LogBlueprintUserMessages: [DodgeAnim_C_0] 399.607483
+[2019.03.06-19.50.59:237][ 17]LogBlueprintUserMessages: [DodgeAnim_C_0] 424.676208
+[2019.03.06-19.50.59:256][ 18]LogBlueprintUserMessages: [DodgeAnim_C_0] 449.215851
+[2019.03.06-19.50.59:273][ 19]LogBlueprintUserMessages: [DodgeAnim_C_0] 470.049622
+[2019.03.06-19.50.59:290][ 20]LogBlueprintUserMessages: [DodgeAnim_C_0] 490.882935
+[2019.03.06-19.50.59:309][ 21]LogBlueprintUserMessages: [DodgeAnim_C_0] 514.227112
+[2019.03.06-19.50.59:328][ 22]LogBlueprintUserMessages: [DodgeAnim_C_0] 538.536133
+[2019.03.06-19.50.59:348][ 23]LogBlueprintUserMessages: [DodgeAnim_C_0] 563.281494
+[2019.03.06-19.50.59:367][ 24]LogBlueprintUserMessages: [DodgeAnim_C_0] 587.542664
+[2019.03.06-19.50.59:385][ 25]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999756
+[2019.03.06-19.50.59:408][ 26]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000427
+[2019.03.06-19.50.59:425][ 27]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000122
+[2019.03.06-19.50.59:442][ 28]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.50.59:462][ 29]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999512
+[2019.03.06-19.50.59:483][ 30]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.0
+[2019.03.06-19.50.59:499][ 31]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000183
+[2019.03.06-19.50.59:518][ 32]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.50.59:539][ 33]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.081787
+[2019.03.06-19.50.59:559][ 34]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.290527
+[2019.03.06-19.50.59:577][ 35]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.562256
+[2019.03.06-19.50.59:596][ 36]LogBlueprintUserMessages: [DodgeAnim_C_0] 2097.928711
+[2019.03.06-19.50.59:615][ 37]LogBlueprintUserMessages: [DodgeAnim_C_0] 1377.75
+[2019.03.06-19.50.59:632][ 38]LogBlueprintUserMessages: [DodgeAnim_C_0] 788.711731
+[2019.03.06-19.50.59:651][ 39]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001343
+[2019.03.06-19.50.59:667][ 40]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999939
+[2019.03.06-19.50.59:689][ 41]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999573
+[2019.03.06-19.50.59:708][ 42]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000732
+[2019.03.06-19.50.59:725][ 43]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.50.59:741][ 44]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000122
+[2019.03.06-19.50.59:761][ 45]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999634
+[2019.03.06-19.50.59:781][ 46]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000427
+[2019.03.06-19.50.59:797][ 47]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999939
+[2019.03.06-19.50.59:815][ 48]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.50.59:838][ 49]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000671
+[2019.03.06-19.50.59:859][ 50]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999634
+[2019.03.06-19.50.59:875][ 51]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.50.59:891][ 52]LogBlueprintUserMessages: [DodgeAnim_C_0] 591.642395
+[2019.03.06-19.50.59:911][ 53]LogBlueprintUserMessages: [DodgeAnim_C_0] 594.240479
+[2019.03.06-19.50.59:927][ 54]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001465
+[2019.03.06-19.50.59:944][ 55]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001587
+[2019.03.06-19.50.59:962][ 56]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999329
+[2019.03.06-19.50.59:982][ 57]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999878
+[2019.03.06-19.51.00:005][ 58]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999084
+[2019.03.06-19.51.00:027][ 59]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000427
+[2019.03.06-19.51.00:044][ 60]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000916
+[2019.03.06-19.51.00:067][ 61]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.00:085][ 62]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.0
+[2019.03.06-19.51.00:101][ 63]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000183
+[2019.03.06-19.51.00:118][ 64]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.00061
+[2019.03.06-19.51.00:138][ 65]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000854
+[2019.03.06-19.51.00:155][ 66]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999512
+[2019.03.06-19.51.00:172][ 67]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.998291
+[2019.03.06-19.51.00:191][ 68]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.998535
+[2019.03.06-19.51.00:210][ 69]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.998535
+[2019.03.06-19.51.00:230][ 70]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000793
+[2019.03.06-19.51.00:248][ 71]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001221
+[2019.03.06-19.51.00:265][ 72]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001953
+[2019.03.06-19.51.00:286][ 73]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999084
+[2019.03.06-19.51.00:306][ 74]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000732
+[2019.03.06-19.51.00:324][ 75]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.00:346][ 76]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999695
+[2019.03.06-19.51.00:370][ 77]LogBlueprintUserMessages: [DodgeAnim_C_0] 591.966614
+[2019.03.06-19.51.00:386][ 78]LogBlueprintUserMessages: [DodgeAnim_C_0] 596.779297
+[2019.03.06-19.51.00:403][ 79]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.002991
+[2019.03.06-19.51.00:422][ 80]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999695
+[2019.03.06-19.51.00:438][ 81]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.998169
+[2019.03.06-19.51.00:455][ 82]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.998169
+[2019.03.06-19.51.00:472][ 83]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.00061
+[2019.03.06-19.51.00:493][ 84]LogBlueprintUserMessages: [DodgeAnim_C_0] 330.081604
+[2019.03.06-19.51.00:511][ 85]LogBlueprintUserMessages: [DodgeAnim_C_0] 179.690933
+[2019.03.06-19.51.00:529][ 86]LogBlueprintUserMessages: [DodgeAnim_C_0] 98.953339
+[2019.03.06-19.51.00:544][ 87]LogBlueprintUserMessages: [DodgeAnim_C_0] 45.136238
+[2019.03.06-19.51.00:567][ 88]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.00:588][ 89]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.00:605][ 90]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.00:622][ 91]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.00:642][ 92]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.00:662][ 93]LogBlueprintUserMessages: [DodgeAnim_C_0] 24.840076
+[2019.03.06-19.51.00:680][ 94]LogBlueprintUserMessages: [DodgeAnim_C_0] 45.671597
+[2019.03.06-19.51.00:695][ 95]LogBlueprintUserMessages: [DodgeAnim_C_0] 67.574493
+[2019.03.06-19.51.00:713][ 96]LogBlueprintUserMessages: [DodgeAnim_C_0] 88.411469
+[2019.03.06-19.51.00:734][ 97]LogBlueprintUserMessages: [DodgeAnim_C_0] 116.019875
+[2019.03.06-19.51.00:751][ 98]LogBlueprintUserMessages: [DodgeAnim_C_0] 137.012695
+[2019.03.06-19.51.00:768][ 99]LogBlueprintUserMessages: [DodgeAnim_C_0] 157.84729
+[2019.03.06-19.51.00:789][100]LogBlueprintUserMessages: [DodgeAnim_C_0] 183.775101
+[2019.03.06-19.51.00:809][101]LogBlueprintUserMessages: [DodgeAnim_C_0] 208.492447
+[2019.03.06-19.51.00:826][102]LogBlueprintUserMessages: [DodgeAnim_C_0] 229.324722
+[2019.03.06-19.51.00:842][103]LogBlueprintUserMessages: [DodgeAnim_C_0] 251.024139
+[2019.03.06-19.51.00:860][104]LogBlueprintUserMessages: [DodgeAnim_C_0] 271.861694
+[2019.03.06-19.51.00:883][105]LogBlueprintUserMessages: [DodgeAnim_C_0] 302.377014
+[2019.03.06-19.51.00:900][106]LogBlueprintUserMessages: [DodgeAnim_C_0] 323.20929
+[2019.03.06-19.51.00:917][107]LogBlueprintUserMessages: [DodgeAnim_C_0] 344.69873
+[2019.03.06-19.51.00:935][108]LogBlueprintUserMessages: [DodgeAnim_C_0] 365.530579
+[2019.03.06-19.51.00:957][109]LogBlueprintUserMessages: [DodgeAnim_C_0] 369.052368
+[2019.03.06-19.51.00:972][110]LogBlueprintUserMessages: [DodgeAnim_C_0] 378.993622
+[2019.03.06-19.51.00:990][111]LogBlueprintUserMessages: [DodgeAnim_C_0] 392.849365
+[2019.03.06-19.51.01:008][112]LogBlueprintUserMessages: [DodgeAnim_C_0] 410.711823
+[2019.03.06-19.51.01:028][113]LogBlueprintUserMessages: [DodgeAnim_C_0] 433.128448
+[2019.03.06-19.51.01:048][114]LogBlueprintUserMessages: [DodgeAnim_C_0] 457.172028
+[2019.03.06-19.51.01:065][115]LogBlueprintUserMessages: [DodgeAnim_C_0] 477.466003
+[2019.03.06-19.51.01:083][116]LogBlueprintUserMessages: [DodgeAnim_C_0] 497.752655
+[2019.03.06-19.51.01:105][117]LogBlueprintUserMessages: [DodgeAnim_C_0] 525.240906
+[2019.03.06-19.51.01:124][118]LogBlueprintUserMessages: [DodgeAnim_C_0] 525.306763
+[2019.03.06-19.51.01:141][119]LogBlueprintUserMessages: [DodgeAnim_C_0] 532.891113
+[2019.03.06-19.51.01:160][120]LogBlueprintUserMessages: [DodgeAnim_C_0] 546.959351
+[2019.03.06-19.51.01:180][121]LogBlueprintUserMessages: [DodgeAnim_C_0] 566.132202
+[2019.03.06-19.51.01:196][122]LogBlueprintUserMessages: [DodgeAnim_C_0] 583.693115
+[2019.03.06-19.51.01:214][123]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001465
+[2019.03.06-19.51.01:232][124]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001709
+[2019.03.06-19.51.01:254][125]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000183
+[2019.03.06-19.51.01:270][126]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.998352
+[2019.03.06-19.51.01:287][127]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001404
+[2019.03.06-19.51.01:305][128]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999084
+[2019.03.06-19.51.01:326][129]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001038
+[2019.03.06-19.51.01:342][130]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000854
+[2019.03.06-19.51.01:361][131]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000977
+[2019.03.06-19.51.01:378][132]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.01:401][133]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.01:423][134]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.01:440][135]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001404
+[2019.03.06-19.51.01:460][136]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001282
+[2019.03.06-19.51.01:479][137]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001343
+[2019.03.06-19.51.01:496][138]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001831
+[2019.03.06-19.51.01:512][139]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999634
+[2019.03.06-19.51.01:531][140]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999695
+[2019.03.06-19.51.01:552][141]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999268
+[2019.03.06-19.51.01:570][142]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000793
+[2019.03.06-19.51.01:586][143]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.00061
+[2019.03.06-19.51.01:608][144]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000977
+[2019.03.06-19.51.01:631][145]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.998962
+[2019.03.06-19.51.01:648][146]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000183
+[2019.03.06-19.51.01:663][147]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999023
+[2019.03.06-19.51.01:682][148]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000122
+[2019.03.06-19.51.01:703][149]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.998657
+[2019.03.06-19.51.01:741][150]LogBlueprintUserMessages: [DodgeAnim_C_0] 344.706116
+[2019.03.06-19.51.01:765][151]LogBlueprintUserMessages: [DodgeAnim_C_0] 4.217627
+[2019.03.06-19.51.01:784][152]LogBlueprintUserMessages: [DodgeAnim_C_0] 27.81056
+[2019.03.06-19.51.01:801][153]LogBlueprintUserMessages: [DodgeAnim_C_0] 16.652678
+[2019.03.06-19.51.01:818][154]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.040281
+[2019.03.06-19.51.01:840][155]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.031444
+[2019.03.06-19.51.01:859][156]LogBlueprintUserMessages: [DodgeAnim_C_0] 19.57807
+[2019.03.06-19.51.01:876][157]LogBlueprintUserMessages: [DodgeAnim_C_0] 35.972992
+[2019.03.06-19.51.01:896][158]LogBlueprintUserMessages: [DodgeAnim_C_0] 55.0411
+[2019.03.06-19.51.01:921][159]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.01:938][160]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.01:955][161]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.01:978][162]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.01:995][163]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:016][164]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:034][165]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:056][166]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:075][167]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:092][168]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:111][169]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:133][170]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:148][171]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:167][172]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:184][173]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:204][174]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:222][175]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:238][176]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:256][177]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:276][178]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:296][179]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:313][180]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:330][181]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:353][182]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:370][183]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:387][184]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:405][185]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:425][186]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:444][187]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:462][188]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:478][189]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:499][190]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:516][191]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:535][192]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:557][193]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:578][194]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:597][195]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:614][196]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:640][197]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:659][198]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:677][199]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:693][200]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:714][201]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:732][202]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:749][203]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:767][204]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:788][205]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:807][206]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:823][207]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:843][208]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.02:865][209]LogBlueprintUserMessages: [DodgeAnim_C_0] 26.916716
+[2019.03.06-19.51.02:884][210]LogBlueprintUserMessages: [DodgeAnim_C_0] 52.370682
+[2019.03.06-19.51.02:901][211]LogBlueprintUserMessages: [DodgeAnim_C_0] 73.20385
+[2019.03.06-19.51.02:919][212]LogBlueprintUserMessages: [DodgeAnim_C_0] 94.039719
+[2019.03.06-19.51.02:939][213]LogBlueprintUserMessages: [DodgeAnim_C_0] 120.876671
+[2019.03.06-19.51.02:956][214]LogBlueprintUserMessages: [DodgeAnim_C_0] 141.797531
+[2019.03.06-19.51.02:973][215]LogBlueprintUserMessages: [DodgeAnim_C_0] 162.630325
+[2019.03.06-19.51.02:994][216]LogBlueprintUserMessages: [DodgeAnim_C_0] 189.486984
+[2019.03.06-19.51.03:016][217]LogBlueprintUserMessages: [DodgeAnim_C_0] 216.824966
+[2019.03.06-19.51.03:032][218]LogBlueprintUserMessages: [DodgeAnim_C_0] 237.662262
+[2019.03.06-19.51.03:050][219]LogBlueprintUserMessages: [DodgeAnim_C_0] 258.496613
+[2019.03.06-19.51.03:072][220]LogBlueprintUserMessages: [DodgeAnim_C_0] 286.293701
+[2019.03.06-19.51.03:091][221]LogBlueprintUserMessages: [DodgeAnim_C_0] 310.482025
+[2019.03.06-19.51.03:108][222]LogBlueprintUserMessages: [DodgeAnim_C_0] 331.702911
+[2019.03.06-19.51.03:125][223]LogBlueprintUserMessages: [DodgeAnim_C_0] 352.537781
+[2019.03.06-19.51.03:144][224]LogBlueprintUserMessages: [DodgeAnim_C_0] 377.436432
+[2019.03.06-19.51.03:164][225]LogBlueprintUserMessages: [DodgeAnim_C_0] 401.665741
+[2019.03.06-19.51.03:180][226]LogBlueprintUserMessages: [DodgeAnim_C_0] 422.63681
+[2019.03.06-19.51.03:197][227]LogBlueprintUserMessages: [DodgeAnim_C_0] 443.470856
+[2019.03.06-19.51.03:218][228]LogBlueprintUserMessages: [DodgeAnim_C_0] 468.489624
+[2019.03.06-19.51.03:241][229]LogBlueprintUserMessages: [DodgeAnim_C_0] 498.256104
+[2019.03.06-19.51.03:258][230]LogBlueprintUserMessages: [DodgeAnim_C_0] 519.0896
+[2019.03.06-19.51.03:275][231]LogBlueprintUserMessages: [DodgeAnim_C_0] 539.922302
+[2019.03.06-19.51.03:296][232]LogBlueprintUserMessages: [DodgeAnim_C_0] 566.571777
+[2019.03.06-19.51.03:313][233]LogBlueprintUserMessages: [DodgeAnim_C_0] 587.425293
+[2019.03.06-19.51.03:331][234]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001038
+[2019.03.06-19.51.03:348][235]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.99823
+[2019.03.06-19.51.03:372][236]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001282
+[2019.03.06-19.51.03:389][237]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999573
+[2019.03.06-19.51.03:406][238]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001343
+[2019.03.06-19.51.03:424][239]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.03:445][240]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.073242
+[2019.03.06-19.51.03:465][241]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.284912
+[2019.03.06-19.51.03:482][242]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.565186
+[2019.03.06-19.51.03:500][243]LogBlueprintUserMessages: [DodgeAnim_C_0] 2344.299805
+[2019.03.06-19.51.03:521][244]LogBlueprintUserMessages: [DodgeAnim_C_0] 1339.336182
+[2019.03.06-19.51.03:537][245]LogBlueprintUserMessages: [DodgeAnim_C_0] 868.92865
+[2019.03.06-19.51.03:555][246]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001587
+[2019.03.06-19.51.03:572][247]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999939
+[2019.03.06-19.51.03:596][248]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.03:611][249]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001038
+[2019.03.06-19.51.03:628][250]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.03:647][251]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.03:670][252]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.99823
+[2019.03.06-19.51.03:689][253]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.997437
+[2019.03.06-19.51.03:706][254]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000122
+[2019.03.06-19.51.03:723][255]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999939
+[2019.03.06-19.51.03:744][256]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001648
+[2019.03.06-19.51.03:763][257]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.003052
+[2019.03.06-19.51.03:781][258]LogBlueprintUserMessages: [DodgeAnim_C_0] 170.598862
+[2019.03.06-19.51.03:798][259]LogBlueprintUserMessages: [DodgeAnim_C_0] 28.600386
+[2019.03.06-19.51.03:819][260]LogBlueprintUserMessages: [DodgeAnim_C_0] 8.381266
+[2019.03.06-19.51.03:838][261]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.039355
+[2019.03.06-19.51.03:855][262]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.03:874][263]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.03:894][264]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.03:911][265]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.03:930][266]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.03:950][267]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.03:971][268]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.03:988][269]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.04:006][270]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.04:023][271]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.04:045][272]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.04:065][273]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.04:082][274]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.04:098][275]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.04:119][276]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.04:136][277]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.04:154][278]LogBlueprintUserMessages: [DodgeAnim_C_0] 0.0
+[2019.03.06-19.51.04:172][279]LogBlueprintUserMessages: [DodgeAnim_C_0] 20.836901
+[2019.03.06-19.51.04:193][280]LogBlueprintUserMessages: [DodgeAnim_C_0] 48.088547
+[2019.03.06-19.51.04:214][281]LogBlueprintUserMessages: [DodgeAnim_C_0] 73.542885
+[2019.03.06-19.51.04:231][282]LogBlueprintUserMessages: [DodgeAnim_C_0] 94.375267
+[2019.03.06-19.51.04:247][283]LogBlueprintUserMessages: [DodgeAnim_C_0] 115.208817
+[2019.03.06-19.51.04:269][284]LogBlueprintUserMessages: [DodgeAnim_C_0] 143.514893
+[2019.03.06-19.51.04:289][285]LogBlueprintUserMessages: [DodgeAnim_C_0] 169.20871
+[2019.03.06-19.51.04:307][286]LogBlueprintUserMessages: [DodgeAnim_C_0] 190.04425
+[2019.03.06-19.51.04:326][287]LogBlueprintUserMessages: [DodgeAnim_C_0] 213.318878
+[2019.03.06-19.51.04:350][288]LogBlueprintUserMessages: [DodgeAnim_C_0] 243.385803
+[2019.03.06-19.51.04:366][289]LogBlueprintUserMessages: [DodgeAnim_C_0] 264.704437
+[2019.03.06-19.51.04:382][290]LogBlueprintUserMessages: [DodgeAnim_C_0] 285.535126
+[2019.03.06-19.51.04:401][291]LogBlueprintUserMessages: [DodgeAnim_C_0] 306.371521
+[2019.03.06-19.51.04:422][292]LogBlueprintUserMessages: [DodgeAnim_C_0] 333.670837
+[2019.03.06-19.51.04:439][293]LogBlueprintUserMessages: [DodgeAnim_C_0] 354.50415
+[2019.03.06-19.51.04:457][294]LogBlueprintUserMessages: [DodgeAnim_C_0] 356.654968
+[2019.03.06-19.51.04:476][295]LogBlueprintUserMessages: [DodgeAnim_C_0] 368.306427
+[2019.03.06-19.51.04:495][296]LogBlueprintUserMessages: [DodgeAnim_C_0] 383.993988
+[2019.03.06-19.51.04:511][297]LogBlueprintUserMessages: [DodgeAnim_C_0] 400.560974
+[2019.03.06-19.51.04:528][298]LogBlueprintUserMessages: [DodgeAnim_C_0] 419.822327
+[2019.03.06-19.51.04:547][299]LogBlueprintUserMessages: [DodgeAnim_C_0] 438.9776
+[2019.03.06-19.51.04:568][300]LogBlueprintUserMessages: [DodgeAnim_C_0] 465.181976
+[2019.03.06-19.51.04:584][301]LogBlueprintUserMessages: [DodgeAnim_C_0] 485.365356
+[2019.03.06-19.51.04:604][302]LogBlueprintUserMessages: [DodgeAnim_C_0] 509.435669
+[2019.03.06-19.51.04:624][303]LogBlueprintUserMessages: [DodgeAnim_C_0] 532.953674
+[2019.03.06-19.51.04:644][304]LogBlueprintUserMessages: [DodgeAnim_C_0] 558.374573
+[2019.03.06-19.51.04:662][305]LogBlueprintUserMessages: [DodgeAnim_C_0] 579.156128
+[2019.03.06-19.51.04:678][306]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.926697
+[2019.03.06-19.51.04:703][307]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001221
+[2019.03.06-19.51.04:718][308]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.04:738][309]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000793
+[2019.03.06-19.51.04:754][310]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000916
+[2019.03.06-19.51.04:778][311]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001404
+[2019.03.06-19.51.04:794][312]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.997742
+[2019.03.06-19.51.04:815][313]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.998047
+[2019.03.06-19.51.04:832][314]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000916
+[2019.03.06-19.51.04:856][315]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000427
+[2019.03.06-19.51.04:872][316]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.001709
+[2019.03.06-19.51.04:889][317]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.997437
+[2019.03.06-19.51.04:919][318]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999146
+[2019.03.06-19.51.04:939][319]LogBlueprintUserMessages: [DodgeAnim_C_0] 591.591431
+[2019.03.06-19.51.04:955][320]LogBlueprintUserMessages: [DodgeAnim_C_0] 594.912354
+[2019.03.06-19.51.04:972][321]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.002075
+[2019.03.06-19.51.04:995][322]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999878
+[2019.03.06-19.51.05:012][323]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999695
+[2019.03.06-19.51.05:033][324]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000122
+[2019.03.06-19.51.05:051][325]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999268
+[2019.03.06-19.51.05:072][326]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000305
+[2019.03.06-19.51.05:091][327]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999023
+[2019.03.06-19.51.05:109][328]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.00177
+[2019.03.06-19.51.05:131][329]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.065918
+[2019.03.06-19.51.05:154][330]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.319336
+[2019.03.06-19.51.05:170][331]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.602783
+[2019.03.06-19.51.05:187][332]LogBlueprintUserMessages: [DodgeAnim_C_0] 2184.804932
+[2019.03.06-19.51.05:206][333]LogBlueprintUserMessages: [DodgeAnim_C_0] 1357.722534
+[2019.03.06-19.51.05:225][334]LogBlueprintUserMessages: [DodgeAnim_C_0] 533.751404
+[2019.03.06-19.51.05:243][335]LogBlueprintUserMessages: [DodgeAnim_C_0] 298.905182
+[2019.03.06-19.51.05:261][336]LogBlueprintUserMessages: [DodgeAnim_C_0] 286.762939
+[2019.03.06-19.51.05:279][337]LogBlueprintUserMessages: [DodgeAnim_C_0] 281.378174
+[2019.03.06-19.51.05:302][338]LogBlueprintUserMessages: [DodgeAnim_C_0] 282.016479
+[2019.03.06-19.51.05:318][339]LogBlueprintUserMessages: [DodgeAnim_C_0] 285.784393
+[2019.03.06-19.51.05:335][340]LogBlueprintUserMessages: [DodgeAnim_C_0] 294.435608
+[2019.03.06-19.51.05:355][341]LogBlueprintUserMessages: [DodgeAnim_C_0] 308.920715
+[2019.03.06-19.51.05:376][342]LogBlueprintUserMessages: [DodgeAnim_C_0] 327.32312
+[2019.03.06-19.51.05:393][343]LogBlueprintUserMessages: [DodgeAnim_C_0] 342.733124
+[2019.03.06-19.51.05:409][344]LogBlueprintUserMessages: [DodgeAnim_C_0] 360.93454
+[2019.03.06-19.51.05:429][345]LogBlueprintUserMessages: [DodgeAnim_C_0] 380.927917
+[2019.03.06-19.51.05:450][346]LogBlueprintUserMessages: [DodgeAnim_C_0] 407.00293
+[2019.03.06-19.51.05:467][347]LogBlueprintUserMessages: [DodgeAnim_C_0] 427.069275
+[2019.03.06-19.51.05:484][348]LogBlueprintUserMessages: [DodgeAnim_C_0] 447.422607
+[2019.03.06-19.51.05:508][349]LogBlueprintUserMessages: [DodgeAnim_C_0] 477.098724
+[2019.03.06-19.51.05:524][350]LogBlueprintUserMessages: [DodgeAnim_C_0] 477.685699
+[2019.03.06-19.51.05:543][351]LogBlueprintUserMessages: [DodgeAnim_C_0] 486.084473
+[2019.03.06-19.51.05:560][352]LogBlueprintUserMessages: [DodgeAnim_C_0] 498.552856
+[2019.03.06-19.51.05:580][353]LogBlueprintUserMessages: [DodgeAnim_C_0] 517.673218
+[2019.03.06-19.51.05:603][354]LogBlueprintUserMessages: [DodgeAnim_C_0] 541.752197
+[2019.03.06-19.51.05:619][355]LogBlueprintUserMessages: [DodgeAnim_C_0] 560.722168
+[2019.03.06-19.51.05:635][356]LogBlueprintUserMessages: [DodgeAnim_C_0] 580.315735
+[2019.03.06-19.51.05:658][357]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000305
+[2019.03.06-19.51.05:677][358]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.998718
+[2019.03.06-19.51.05:695][359]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000549
+[2019.03.06-19.51.05:711][360]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999756
+[2019.03.06-19.51.05:734][361]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.00061
+[2019.03.06-19.51.05:752][362]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.00061
+[2019.03.06-19.51.05:768][363]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999451
+[2019.03.06-19.51.05:789][364]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999634
+[2019.03.06-19.51.05:811][365]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999634
+[2019.03.06-19.51.05:827][366]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999573
+[2019.03.06-19.51.05:845][367]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000366
+[2019.03.06-19.51.05:862][368]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000671
+[2019.03.06-19.51.05:885][369]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.05:902][370]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999268
+[2019.03.06-19.51.05:920][371]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999268
+[2019.03.06-19.51.05:943][372]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999939
+[2019.03.06-19.51.05:961][373]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999573
+[2019.03.06-19.51.05:978][374]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000671
+[2019.03.06-19.51.05:996][375]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999451
+[2019.03.06-19.51.06:016][376]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.00061
+[2019.03.06-19.51.06:044][377]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.06:064][378]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.06:079][379]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999268
+[2019.03.06-19.51.06:109][380]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.06:135][381]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.06:156][382]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999939
+[2019.03.06-19.51.06:178][383]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000122
+[2019.03.06-19.51.06:194][384]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999756
+[2019.03.06-19.51.06:211][385]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000488
+[2019.03.06-19.51.06:231][386]LogBlueprintUserMessages: [DodgeAnim_C_0] 591.633423
+[2019.03.06-19.51.06:251][387]LogBlueprintUserMessages: [DodgeAnim_C_0] 595.908752
+[2019.03.06-19.51.06:268][388]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999878
+[2019.03.06-19.51.06:286][389]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999695
+[2019.03.06-19.51.06:307][390]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.06:327][391]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999634
+[2019.03.06-19.51.06:345][392]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999878
+[2019.03.06-19.51.06:361][393]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000122
+[2019.03.06-19.51.06:381][394]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999878
+[2019.03.06-19.51.06:402][395]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000427
+[2019.03.06-19.51.06:418][396]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000549
+[2019.03.06-19.51.06:436][397]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999512
+[2019.03.06-19.51.06:456][398]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.06:478][399]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.074219
+[2019.03.06-19.51.06:495][400]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.234375
+[2019.03.06-19.51.06:511][401]LogBlueprintUserMessages: [DodgeAnim_C_0] 3000.483398
+[2019.03.06-19.51.06:534][402]LogBlueprintUserMessages: [DodgeAnim_C_0] 2186.145996
+[2019.03.06-19.51.06:555][403]LogBlueprintUserMessages: [DodgeAnim_C_0] 1214.87915
+[2019.03.06-19.51.06:572][404]LogBlueprintUserMessages: [DodgeAnim_C_0] 789.075623
+[2019.03.06-19.51.06:591][405]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000183
+[2019.03.06-19.51.06:612][406]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.06:632][407]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000183
+[2019.03.06-19.51.06:649][408]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.06:667][409]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999634
+[2019.03.06-19.51.06:689][410]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.06:708][411]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999634
+[2019.03.06-19.51.06:726][412]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000244
+[2019.03.06-19.51.06:747][413]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.06:773][414]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999878
+[2019.03.06-19.51.06:790][415]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999756
+[2019.03.06-19.51.06:807][416]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999634
+[2019.03.06-19.51.06:829][417]LogBlueprintUserMessages: [DodgeAnim_C_0] 591.690613
+[2019.03.06-19.51.06:846][418]LogBlueprintUserMessages: [DodgeAnim_C_0] 596.065002
+[2019.03.06-19.51.06:866][419]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000122
+[2019.03.06-19.51.06:884][420]LogBlueprintUserMessages: [DodgeAnim_C_0] 493.936279
+[2019.03.06-19.51.06:906][421]LogBlueprintUserMessages: [DodgeAnim_C_0] 134.905045
+[2019.03.06-19.51.06:923][422]LogBlueprintUserMessages: [DodgeAnim_C_0] 113.121658
+[2019.03.06-19.51.06:945][423]LogBlueprintUserMessages: [DodgeAnim_C_0] 87.1548
+[2019.03.06-19.51.06:963][424]LogBlueprintUserMessages: [DodgeAnim_C_0] 71.795921
+[2019.03.06-19.51.06:984][425]LogBlueprintUserMessages: [DodgeAnim_C_0] 56.364613
+[2019.03.06-19.51.07:000][426]LogBlueprintUserMessages: [DodgeAnim_C_0] 25.594238
+[2019.03.06-19.51.07:018][427]LogBlueprintUserMessages: [DodgeAnim_C_0] 3.535875
+[2019.03.06-19.51.07:040][428]LogBlueprintUserMessages: [DodgeAnim_C_0] 17.449774
+[2019.03.06-19.51.07:061][429]LogBlueprintUserMessages: [DodgeAnim_C_0] 44.165661
+[2019.03.06-19.51.07:079][430]LogBlueprintUserMessages: [DodgeAnim_C_0] 65.000519
+[2019.03.06-19.51.07:097][431]LogBlueprintUserMessages: [DodgeAnim_C_0] 89.403595
+[2019.03.06-19.51.07:115][432]LogBlueprintUserMessages: [DodgeAnim_C_0] 110.53846
+[2019.03.06-19.51.07:136][433]LogBlueprintUserMessages: [DodgeAnim_C_0] 137.45282
+[2019.03.06-19.51.07:152][434]LogBlueprintUserMessages: [DodgeAnim_C_0] 158.286652
+[2019.03.06-19.51.07:169][435]LogBlueprintUserMessages: [DodgeAnim_C_0] 168.852554
+[2019.03.06-19.51.07:192][436]LogBlueprintUserMessages: [DodgeAnim_C_0] 190.679321
+[2019.03.06-19.51.07:209][437]LogBlueprintUserMessages: [DodgeAnim_C_0] 208.644592
+[2019.03.06-19.51.07:230][438]LogBlueprintUserMessages: [DodgeAnim_C_0] 231.983963
+[2019.03.06-19.51.07:247][439]LogBlueprintUserMessages: [DodgeAnim_C_0] 251.863174
+[2019.03.06-19.51.07:269][440]LogBlueprintUserMessages: [DodgeAnim_C_0] 280.135345
+[2019.03.06-19.51.07:289][441]LogBlueprintUserMessages: [DodgeAnim_C_0] 305.083893
+[2019.03.06-19.51.07:306][442]LogBlueprintUserMessages: [DodgeAnim_C_0] 325.74408
+[2019.03.06-19.51.07:323][443]LogBlueprintUserMessages: [DodgeAnim_C_0] 326.092926
+[2019.03.06-19.51.07:346][444]LogBlueprintUserMessages: [DodgeAnim_C_0] 337.637878
+[2019.03.06-19.51.07:362][445]LogBlueprintUserMessages: [DodgeAnim_C_0] 351.300995
+[2019.03.06-19.51.07:379][446]LogBlueprintUserMessages: [DodgeAnim_C_0] 367.976349
+[2019.03.06-19.51.07:397][447]LogBlueprintUserMessages: [DodgeAnim_C_0] 386.670898
+[2019.03.06-19.51.07:421][448]LogBlueprintUserMessages: [DodgeAnim_C_0] 413.78479
+[2019.03.06-19.51.07:437][449]LogBlueprintUserMessages: [DodgeAnim_C_0] 433.621552
+[2019.03.06-19.51.07:454][450]LogBlueprintUserMessages: [DodgeAnim_C_0] 454.982635
+[2019.03.06-19.51.07:473][451]LogBlueprintUserMessages: [DodgeAnim_C_0] 475.396515
+[2019.03.06-19.51.07:493][452]LogBlueprintUserMessages: [DodgeAnim_C_0] 502.578186
+[2019.03.06-19.51.07:510][453]LogBlueprintUserMessages: [DodgeAnim_C_0] 523.255249
+[2019.03.06-19.51.07:529][454]LogBlueprintUserMessages: [DodgeAnim_C_0] 546.507446
+[2019.03.06-19.51.07:552][455]LogBlueprintUserMessages: [DodgeAnim_C_0] 575.095703
+[2019.03.06-19.51.07:579][456]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.07:600][457]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999878
+[2019.03.06-19.51.07:622][458]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.07:641][459]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.0
+[2019.03.06-19.51.07:658][460]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999939
+[2019.03.06-19.51.07:675][461]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.07:695][462]LogBlueprintUserMessages: [DodgeAnim_C_0] 591.93512
+[2019.03.06-19.51.07:714][463]LogBlueprintUserMessages: [DodgeAnim_C_0] 596.785583
+[2019.03.06-19.51.07:731][464]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.0
+[2019.03.06-19.51.07:750][465]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.07:772][466]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999939
+[2019.03.06-19.51.07:797][467]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.0
+[2019.03.06-19.51.07:814][468]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000183
+[2019.03.06-19.51.07:831][469]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000244
+[2019.03.06-19.51.07:853][470]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.07:873][471]LogBlueprintUserMessages: [DodgeAnim_C_0] 415.351349
+[2019.03.06-19.51.07:890][472]LogBlueprintUserMessages: [DodgeAnim_C_0] 421.504517
+[2019.03.06-19.51.07:908][473]LogBlueprintUserMessages: [DodgeAnim_C_0] 432.846436
+[2019.03.06-19.51.07:928][474]LogBlueprintUserMessages: [DodgeAnim_C_0] 449.03833
+[2019.03.06-19.51.07:950][475]LogBlueprintUserMessages: [DodgeAnim_C_0] 470.760437
+[2019.03.06-19.51.07:967][476]LogBlueprintUserMessages: [DodgeAnim_C_0] 488.955536
+[2019.03.06-19.51.07:984][477]LogBlueprintUserMessages: [DodgeAnim_C_0] 508.048035
+[2019.03.06-19.51.08:006][478]LogBlueprintUserMessages: [DodgeAnim_C_0] 534.14917
+[2019.03.06-19.51.08:024][479]LogBlueprintUserMessages: [DodgeAnim_C_0] 554.336304
+[2019.03.06-19.51.08:039][480]LogBlueprintUserMessages: [DodgeAnim_C_0] 576.578186
+[2019.03.06-19.51.08:060][481]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.08:083][482]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.08:099][483]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999695
+[2019.03.06-19.51.08:116][484]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000122
+[2019.03.06-19.51.08:139][485]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000061
+[2019.03.06-19.51.08:161][486]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999939
+[2019.03.06-19.51.08:178][487]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000122
+[2019.03.06-19.51.08:195][488]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999634
+[2019.03.06-19.51.08:214][489]LogBlueprintUserMessages: [DodgeAnim_C_0] 592.284302
+[2019.03.06-19.51.08:235][490]LogBlueprintUserMessages: [DodgeAnim_C_0] 597.610168
+[2019.03.06-19.51.08:251][491]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.0
+[2019.03.06-19.51.08:268][492]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000183
+[2019.03.06-19.51.08:289][493]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000427
+[2019.03.06-19.51.08:307][494]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000244
+[2019.03.06-19.51.08:324][495]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999207
+[2019.03.06-19.51.08:341][496]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999268
+[2019.03.06-19.51.08:363][497]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.99939
+[2019.03.06-19.51.08:388][498]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999817
+[2019.03.06-19.51.08:404][499]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000122
+[2019.03.06-19.51.08:419][500]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999573
+[2019.03.06-19.51.08:441][501]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000183
+[2019.03.06-19.51.08:458][502]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999756
+[2019.03.06-19.51.08:478][503]LogBlueprintUserMessages: [DodgeAnim_C_0] 599.999268
+[2019.03.06-19.51.08:494][504]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000549
+[2019.03.06-19.51.08:516][505]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000427
+[2019.03.06-19.51.08:533][506]LogBlueprintUserMessages: [DodgeAnim_C_0] 600.000916
+[2019.03.06-19.51.08:552][507]LogBlueprintUserMessages: [DodgeAnim_C_0] 592.243958
+[2019.03.06-19.51.08:569][508]LogBlueprintUserMessages: [DodgeAnim_C_0] 528.016602
+[2019.03.06-19.51.08:592][509]LogBlueprintUserMessages: [DodgeAnim_C_0] 485.70343
+[2019.03.06-19.51.08:611][510]LogBlueprintUserMessages: [DodgeAnim_C_0] 475.681793
+[2019.03.06-19.51.08:629][511]LogBlueprintUserMessages: [DodgeAnim_C_0] 478.334656
+[2019.03.06-19.51.08:650][512]LogBlueprintUserMessages: [DodgeAnim_C_0] 479.976135
+[2019.03.06-19.51.08:672][513]LogBlueprintUserMessages: [DodgeAnim_C_0] 482.567017
+[2019.03.06-19.51.08:689][514]LogBlueprintUserMessages: [DodgeAnim_C_0] 485.172974
+[2019.03.06-19.51.08:705][515]LogBlueprintUserMessages: [DodgeAnim_C_0] 488.313843
+[2019.03.06-19.51.08:724][516]LogBlueprintUserMessages: [DodgeAnim_C_0] 492.604645
+[2019.03.06-19.51.08:744][517]LogBlueprintUserMessages: [DodgeAnim_C_0] 497.664001
+[2019.03.06-19.51.08:761][518]LogBlueprintUserMessages: [DodgeAnim_C_0] 502.506744
+[2019.03.06-19.51.08:777][519]LogBlueprintUserMessages: [DodgeAnim_C_0] 507.953308
+[2019.03.06-19.51.08:795][520]LogBlueprintUserMessages: [DodgeAnim_C_0] 513.754211
+[2019.03.06-19.51.08:816][521]LogBlueprintUserMessages: [DodgeAnim_C_0] 522.078735
+[2019.03.06-19.51.08:832][522]LogBlueprintUserMessages: [DodgeAnim_C_0] 528.899414
+[2019.03.06-19.51.08:850][523]LogBlueprintUserMessages: [DodgeAnim_C_0] 536.156189
+[2019.03.06-19.51.08:872][524]LogBlueprintUserMessages: [DodgeAnim_C_0] 545.803528
+[2019.03.06-19.51.08:890][525]LogBlueprintUserMessages: [DodgeAnim_C_0] 555.49292
+[2019.03.06-19.51.08:908][526]LogBlueprintUserMessages: [DodgeAnim_C_0] 564.396606
+[2019.03.06-19.51.08:924][527]LogBlueprintUserMessages: [DodgeAnim_C_0] 573.343018
+[2019.03.06-19.51.08:942][528]LogBlueprintUserMessages: [DodgeAnim_C_0] 582.855408
+[2019.03.06-19.51.08:962][529]LogBlueprintUserMessages: [DodgeAnim_C_0] 593.892029
+[2019.03.06-19.51.08:978][530]LogBlueprintUserMessages: [DodgeAnim_C_0] 603.810608
+[2019.03.06-19.51.08:997][531]LogBlueprintUserMessages: [DodgeAnim_C_0] 614.92981
+[2019.03.06-19.51.09:013][532]LogBlueprintUserMessages: [DodgeAnim_C_0] 625.36792
+[2019.03.06-19.51.09:035][533]LogBlueprintUserMessages: [DodgeAnim_C_0] 639.556702
+[2019.03.06-19.51.09:051][534]LogBlueprintUserMessages: [DodgeAnim_C_0] 650.556641
+[2019.03.06-19.51.09:070][535]LogBlueprintUserMessages: [DodgeAnim_C_0] 662.962036
+[2019.03.06-19.51.09:087][536]LogBlueprintUserMessages: [DodgeAnim_C_0] 674.416321
+[2019.03.06-19.51.09:109][537]LogBlueprintUserMessages: [DodgeAnim_C_0] 689.983948
+[2019.03.06-19.51.09:129][538]LogBlueprintUserMessages: [DodgeAnim_C_0] 704.850281
+[2019.03.06-19.51.09:147][539]LogBlueprintUserMessages: [DodgeAnim_C_0] 716.9729
+[2019.03.06-19.51.09:164][540]LogBlueprintUserMessages: [DodgeAnim_C_0] 729.260742
+[2019.03.06-19.51.09:189][541]LogBlueprintUserMessages: [DodgeAnim_C_0] 747.931396
+[2019.03.06-19.51.09:208][542]LogBlueprintUserMessages: [DodgeAnim_C_0] 763.375549
+[2019.03.06-19.51.09:225][543]LogBlueprintUserMessages: [DodgeAnim_C_0] 776.210571
+[2019.03.06-19.51.09:246][544]LogBlueprintUserMessages: [DodgeAnim_C_0] 792.697083
+[2019.03.06-19.51.09:270][545]LogBlueprintUserMessages: [DodgeAnim_C_0] 810.885803
+[2019.03.06-19.51.09:286][546]LogBlueprintUserMessages: [DodgeAnim_C_0] 824.169189
+[2019.03.06-19.51.09:303][547]LogBlueprintUserMessages: [DodgeAnim_C_0] 837.561218
+[2019.03.06-19.51.09:324][548]LogBlueprintUserMessages: [DodgeAnim_C_0] 854.588989
+[2019.03.06-19.51.09:344][549]LogBlueprintUserMessages: [DodgeAnim_C_0] 872.116577
+[2019.03.06-19.51.09:362][550]LogBlueprintUserMessages: [DodgeAnim_C_0] 885.492737
+[2019.03.06-19.51.09:378][551]LogBlueprintUserMessages: [DodgeAnim_C_0] 898.967896
+[2019.03.06-19.51.09:399][552]LogBlueprintUserMessages: [DodgeAnim_C_0] 916.523621
+[2019.03.06-19.51.09:416][553]LogBlueprintUserMessages: [DodgeAnim_C_0] 930.209839
+[2019.03.06-19.51.09:434][554]LogBlueprintUserMessages: [DodgeAnim_C_0] 945.494446
+[2019.03.06-19.51.09:451][555]LogBlueprintUserMessages: [DodgeAnim_C_0] 959.356445
+[2019.03.06-19.51.09:473][556]LogBlueprintUserMessages: [DodgeAnim_C_0] 977.640625
+[2019.03.06-19.51.09:492][557]LogBlueprintUserMessages: [DodgeAnim_C_0] 993.669861
+[2019.03.06-19.51.09:509][558]LogBlueprintUserMessages: [DodgeAnim_C_0] 1007.78656
+[2019.03.06-19.51.09:528][559]LogBlueprintUserMessages: [DodgeAnim_C_0] 1023.75354
+[2019.03.06-19.51.09:550][560]LogBlueprintUserMessages: [DodgeAnim_C_0] 1042.700928
+[2019.03.06-19.51.09:566][561]LogBlueprintUserMessages: [DodgeAnim_C_0] 1057.038452
+[2019.03.06-19.51.09:584][562]LogBlueprintUserMessages: [DodgeAnim_C_0] 1072.828613
+[2019.03.06-19.51.09:602][563]LogBlueprintUserMessages: [DodgeAnim_C_0] 1087.594604
+[2019.03.06-19.51.09:625][564]LogBlueprintUserMessages: [DodgeAnim_C_0] 1107.314209
+[2019.03.06-19.51.09:641][565]LogBlueprintUserMessages: [DodgeAnim_C_0] 1121.894775
+[2019.03.06-19.51.09:659][566]LogBlueprintUserMessages: [DodgeAnim_C_0] 1137.508179
+[2019.03.06-19.51.09:678][567]LogBlueprintUserMessages: [DodgeAnim_C_0] 1152.187256
+[2019.03.06-19.51.09:698][568]LogBlueprintUserMessages: [DodgeAnim_C_0] 1171.24585
+[2019.03.06-19.51.09:714][569]LogBlueprintUserMessages: [DodgeAnim_C_0] 1186.025513
+[2019.03.06-19.51.09:731][570]LogBlueprintUserMessages: [DodgeAnim_C_0] 1201.94751
+[2019.03.06-19.51.09:749][571]LogBlueprintUserMessages: [DodgeAnim_C_0] 1216.810791
+[2019.03.06-19.51.09:773][572]LogBlueprintUserMessages: [DodgeAnim_C_0] 1238.086304
+[2019.03.06-19.51.09:788][573]LogBlueprintUserMessages: [DodgeAnim_C_0] 1253.039673
+[2019.03.06-19.51.09:806][574]LogBlueprintUserMessages: [DodgeAnim_C_0] 1268.02832
+[2019.03.06-19.51.09:827][575]LogBlueprintUserMessages: [DodgeAnim_C_0] 1285.147461
+[2019.03.06-19.51.09:847][576]LogBlueprintUserMessages: [DodgeAnim_C_0] 1304.144043
+[2019.03.06-19.51.09:864][577]LogBlueprintUserMessages: [DodgeAnim_C_0] 1318.935303
+[2019.03.06-19.51.09:881][578]LogBlueprintUserMessages: [DodgeAnim_C_0] 1334.692993
+[2019.03.06-19.51.09:899][579]LogBlueprintUserMessages: [DodgeAnim_C_0] 1349.559204
+[2019.03.06-19.51.09:919][580]LogBlueprintUserMessages: [DodgeAnim_C_0] 1369.044678
+[2019.03.06-19.51.09:936][581]LogBlueprintUserMessages: [DodgeAnim_C_0] 1383.988892
+[2019.03.06-19.51.09:953][582]LogBlueprintUserMessages: [DodgeAnim_C_0] 1399.498779
+[2019.03.06-19.51.09:971][583]LogBlueprintUserMessages: [DodgeAnim_C_0] 1415.154541
+[2019.03.06-19.51.09:992][584]LogBlueprintUserMessages: [DodgeAnim_C_0] 1434.848755
+[2019.03.06-19.51.10:013][585]LogBlueprintUserMessages: [DodgeAnim_C_0] 1454.243042
+[2019.03.06-19.51.10:030][586]LogBlueprintUserMessages: [DodgeAnim_C_0] 1469.355103
+[2019.03.06-19.51.10:047][587]LogBlueprintUserMessages: [DodgeAnim_C_0] 1484.493408
+[2019.03.06-19.51.10:069][588]LogBlueprintUserMessages: [DodgeAnim_C_0] 1504.995605
+[2019.03.06-19.51.10:091][589]LogBlueprintUserMessages: [DodgeAnim_C_0] 1524.791992
+[2019.03.06-19.51.10:108][590]LogBlueprintUserMessages: [DodgeAnim_C_0] 1540.020752
+[2019.03.06-19.51.11:547][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.06-19.51.11:584][668]LogSlate: Window 'BA2b Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.06-19.51.11:626][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.06-19.51.13:157][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Lantern1" FILE="C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/TopDownBP/Blueprints/Lantern1.uasset" SILENT=true
+[2019.03.06-19.51.13:189][729]LogSavePackage: Save=21.36ms
+[2019.03.06-19.51.13:189][729]LogSavePackage: Moving 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Saved/Lantern16319BF7D4060EAED632CE3AF8B6831A1.tmp' to 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/TopDownBP/Blueprints/Lantern1.uasset'
+[2019.03.06-19.51.13:194][729]LogSavePackage: Display: Finished SavePackage C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/TopDownBP/Blueprints/Lantern1.uasset
+[2019.03.06-20.03.38:887][389]LogSlate: Window 'BA2b - Unreal Editor' being destroyed
+[2019.03.06-20.03.38:888][389]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.06-20.03.40:130][390]Cmd: QUIT_EDITOR
+[2019.03.06-20.03.41:605][390]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.06-20.03.41:605][390]LogExit: Preparing to exit.
+[2019.03.06-20.03.42:245][390]LogExit: Editor shut down
+[2019.03.06-20.03.42:267][390]LogExit: Transaction tracking system shut down
+[2019.03.06-20.03.42:268][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b7e09ba800, Size=96
+[2019.03.06-20.03.42:268][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b7e09faf00, Size=256
+[2019.03.06-20.03.42:276][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b7dc80e5c0, Size=176
+[2019.03.06-20.03.42:282][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b7849f3fb0, Size=4
+[2019.03.06-20.03.42:283][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b7849f3fa8, Size=4
+[2019.03.06-20.03.42:566][390]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.03.06-20.03.42:567][390]LogDirectoryWatcher: A directory notification for 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/' was aborted.
+[2019.03.06-20.03.42:567][390]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.03.06-20.03.42:567][390]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.03.06-20.03.42:567][390]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.03.06-20.03.42:567][390]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.03.06-20.03.42:567][390]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.03.06-20.03.42:568][390]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.03.06-20.03.42:763][390]LogExit: Object subsystem successfully closed.
+[2019.03.06-20.03.42:919][390]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.06-20.03.42:923][390]LogD3D11RHI: Shutdown
+[2019.03.06-20.03.42:923][390]LogD3D11RHI: CleanupD3DDevice
+[2019.03.06-20.03.42:928][390]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.06-20.03.42:942][390]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2019.03.06-20.03.42:942][390]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (578)
+[2019.03.06-20.03.42:943][390]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2019.03.06-20.03.42:943][390]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2019.03.06-20.03.42:943][390]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2019.03.06-20.03.42:943][390]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2019.03.06-20.03.42:943][390]LogDirectoryWatcher: A directory notification for 'D:/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2019.03.06-20.03.42:945][390]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2019.03.06-20.03.42:945][390]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2019.03.06-20.03.42:945][390]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2019.03.06-20.03.42:946][390]LogDirectoryWatcher: A directory notification for 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/Collections/' was aborted.
+[2019.03.06-20.03.42:946][390]LogDirectoryWatcher: A directory notification for 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Content/Developers/kadam/Collections/' was aborted.
+[2019.03.06-20.03.42:946][390]LogDirectoryWatcher: A directory notification for 'C:/Users/kadam/Documents/Unreal Projects/BA2b/Saved/Collections/' was aborted.
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2019.03.06-20.03.42:946][390]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2019.03.06-20.03.42:947][390]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2019.03.06-20.03.42:948][390]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2019.03.06-20.03.42:948][390]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2019.03.06-20.03.42:948][390]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2019.03.06-20.03.42:948][390]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2019.03.06-20.03.42:948][390]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2019.03.06-20.03.42:948][390]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2019.03.06-20.03.43:683][390]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2019.03.06-20.03.43:684][390]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2019.03.06-20.03.43:684][390]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2019.03.06-20.03.43:684][390]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2019.03.06-20.03.43:684][390]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2019.03.06-20.03.43:684][390]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2019.03.06-20.03.43:684][390]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2019.03.06-20.03.43:684][390]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2019.03.06-20.03.43:684][390]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2019.03.06-20.03.43:684][390]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2019.03.06-20.03.43:750][390]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2019.03.06-20.03.43:750][390]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2019.03.06-20.03.43:750][390]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2019.03.06-20.03.43:750][390]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2019.03.06-20.03.43:750][390]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2019.03.06-20.03.43:751][390]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2019.03.06-20.03.43:751][390]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2019.03.06-20.03.43:751][390]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2019.03.06-20.03.43:751][390]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2019.03.06-20.03.43:751][390]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2019.03.06-20.03.43:760][390]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2019.03.06-20.03.43:760][390]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2019.03.06-20.03.43:760][390]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2019.03.06-20.03.43:761][390]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2019.03.06-20.03.43:987][390]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2019.03.06-20.03.43:988][390]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2019.03.06-20.03.43:994][390]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2019.03.06-20.03.43:994][390]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2019.03.06-20.03.43:994][390]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2019.03.06-20.03.43:994][390]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2019.03.06-20.03.43:994][390]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2019.03.06-20.03.43:994][390]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2019.03.06-20.03.43:994][390]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2019.03.06-20.03.43:994][390]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2019.03.06-20.03.43:994][390]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2019.03.06-20.03.43:995][390]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2019.03.06-20.03.44:096][390]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2019.03.06-20.03.44:198][390]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2019.03.06-20.03.44:198][390]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2019.03.06-20.03.44:198][390]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2019.03.06-20.03.44:198][390]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2019.03.06-20.03.44:198][390]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2019.03.06-20.03.44:198][390]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2019.03.06-20.03.44:200][390]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2019.03.06-20.03.44:200][390]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2019.03.06-20.03.44:201][390]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2019.03.06-20.03.44:201][390]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2019.03.06-20.03.44:202][390]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2019.03.06-20.03.44:205][390]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2019.03.06-20.03.44:206][390]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2019.03.06-20.03.44:206][390]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2019.03.06-20.03.44:206][390]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2019.03.06-20.03.44:659][390]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2019.03.06-20.03.44:659][390]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2019.03.06-20.03.44:659][390]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2019.03.06-20.03.44:661][390]LogModuleManager: Shutting down and abandoning module Media (233)
+[2019.03.06-20.03.44:667][390]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.03.06-20.03.44:667][390]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.03.06-20.03.44:667][390]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.03.06-20.03.44:667][390]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.03.06-20.03.44:668][390]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.03.06-20.03.44:671][390]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2019.03.06-20.03.44:671][390]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2019.03.06-20.03.44:671][390]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2019.03.06-20.03.44:671][390]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2019.03.06-20.03.44:671][390]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2019.03.06-20.03.44:671][390]LogModuleManager: Shutting down and abandoning module Core (178)
+[2019.03.06-20.03.44:671][390]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2019.03.06-20.03.44:671][390]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2019.03.06-20.03.44:671][390]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2019.03.06-20.03.44:671][390]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2019.03.06-20.03.44:672][390]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2019.03.06-20.03.44:672][390]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2019.03.06-20.03.44:672][390]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2019.03.06-20.03.44:672][390]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2019.03.06-20.03.44:672][390]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2019.03.06-20.03.44:672][390]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2019.03.06-20.03.44:675][390]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.03.06-20.03.44:733][390]LogDerivedDataCache: Shutdown
+[2019.03.06-20.03.44:733][390]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.03.06-20.03.44:733][390]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.03.06-20.03.44:733][390]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.03.06-20.03.44:733][390]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.03.06-20.03.44:733][390]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.03.06-20.03.44:733][390]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.03.06-20.03.44:733][390]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.03.06-20.03.44:733][390]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.03.06-20.03.44:733][390]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.03.06-20.03.44:733][390]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.03.06-20.03.44:733][390]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2019.03.06-20.03.44:734][390]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.03.06-20.03.44:736][390]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.03.06-20.03.44:736][390]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.03.06-20.03.44:736][390]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.03.06-20.03.44:736][390]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.03.06-20.03.44:736][390]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.06-20.03.44:736][390]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B33230BF4-41EC-51CB-B9E3-83BF1FB58FEC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=b50c3b394242f1c7a11e18baebf72421%7C137574b441b942d6b891ac97698840b2%7C0e8b4900-a8f1-48bf-8519-737242ff8fb8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.06-20.03.44:747][390]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.03.06-20.03.44:748][390]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.06-20.03.44:748][390]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.06-20.03.44:749][390]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.06-20.03.44:749][390]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.06-20.03.44:749][390]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.06-20.03.44:749][390]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.06-20.03.44:749][390]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.06-20.03.44:751][390]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.06-20.03.44:751][390]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.06-20.03.44:751][390]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.06-20.03.44:751][390]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.06-20.03.44:751][390]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.06-20.03.44:751][390]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.06-20.03.44:751][390]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.06-20.03.44:751][390]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.06-20.03.44:751][390]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.06-20.03.44:751][390]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.06-20.03.44:751][390]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.06-20.03.44:764][390]LogExit: Exiting.
+[2019.03.06-20.03.44:777][390]Log file closed, 03/06/19 20:03:44
